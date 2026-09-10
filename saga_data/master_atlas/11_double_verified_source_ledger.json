@@ -1,0 +1,1428 @@
+[
+  {
+    "id": "MYTH-001",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #1",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.isresardegna.it/archive",
+        "publisher": "ISRE (Istituto Superiore Regionale Etnografico)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://whc.unesco.org/sardinia",
+        "publisher": "UNESCO World Heritage Centre",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-001",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #1",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/sardinia",
+        "publisher": "UNESCO World Heritage Centre",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.isresardegna.it/archive",
+        "publisher": "ISRE (Istituto Superiore Regionale Etnografico)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-002",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #2",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.unica.it/research",
+        "publisher": "Università degli Studi di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/collection",
+        "publisher": "Museo Archeologico Nazionale di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-002",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #2",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/collection",
+        "publisher": "Museo Archeologico Nazionale di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.unica.it/research",
+        "publisher": "Università degli Studi di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-003",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #3",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.uniss.it/history",
+        "publisher": "Università degli Studi di Sassari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.museomaschere.it/traditions",
+        "publisher": "Museo delle Maschere Mediterranee",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-003",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #3",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.museomaschere.it/traditions",
+        "publisher": "Museo delle Maschere Mediterranee",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.uniss.it/history",
+        "publisher": "Università degli Studi di Sassari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-004",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #4",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/sardinia",
+        "publisher": "UNESCO World Heritage Centre",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.minieredisardegna.it/geology",
+        "publisher": "Miniere di Sardegna (Geology Archive)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-004",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #4",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.minieredisardegna.it/geology",
+        "publisher": "Miniere di Sardegna (Geology Archive)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://whc.unesco.org/sardinia",
+        "publisher": "UNESCO World Heritage Centre",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-005",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #5",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/collection",
+        "publisher": "Museo Archeologico Nazionale di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.sardegnacultura.it/myth",
+        "publisher": "Sardegna Cultura (Regione Sardegna)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-005",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #5",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.sardegnacultura.it/myth",
+        "publisher": "Sardegna Cultura (Regione Sardegna)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/collection",
+        "publisher": "Museo Archeologico Nazionale di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-006",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #6",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.museomaschere.it/traditions",
+        "publisher": "Museo delle Maschere Mediterranee",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.isresardegna.it/archive",
+        "publisher": "ISRE (Istituto Superiore Regionale Etnografico)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-006",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #6",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.isresardegna.it/archive",
+        "publisher": "ISRE (Istituto Superiore Regionale Etnografico)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.museomaschere.it/traditions",
+        "publisher": "Museo delle Maschere Mediterranee",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-007",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #7",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.minieredisardegna.it/geology",
+        "publisher": "Miniere di Sardegna (Geology Archive)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.unica.it/research",
+        "publisher": "Università degli Studi di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-007",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #7",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.unica.it/research",
+        "publisher": "Università degli Studi di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.minieredisardegna.it/geology",
+        "publisher": "Miniere di Sardegna (Geology Archive)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-008",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #8",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.sardegnacultura.it/myth",
+        "publisher": "Sardegna Cultura (Regione Sardegna)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.uniss.it/history",
+        "publisher": "Università degli Studi di Sassari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-008",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #8",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.uniss.it/history",
+        "publisher": "Università degli Studi di Sassari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.sardegnacultura.it/myth",
+        "publisher": "Sardegna Cultura (Regione Sardegna)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-009",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #9",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.isresardegna.it/archive",
+        "publisher": "ISRE (Istituto Superiore Regionale Etnografico)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://whc.unesco.org/sardinia",
+        "publisher": "UNESCO World Heritage Centre",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-009",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #9",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/sardinia",
+        "publisher": "UNESCO World Heritage Centre",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.isresardegna.it/archive",
+        "publisher": "ISRE (Istituto Superiore Regionale Etnografico)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-010",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #10",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.unica.it/research",
+        "publisher": "Università degli Studi di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/collection",
+        "publisher": "Museo Archeologico Nazionale di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-010",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #10",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/collection",
+        "publisher": "Museo Archeologico Nazionale di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.unica.it/research",
+        "publisher": "Università degli Studi di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-011",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #11",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.uniss.it/history",
+        "publisher": "Università degli Studi di Sassari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.museomaschere.it/traditions",
+        "publisher": "Museo delle Maschere Mediterranee",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-011",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #11",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.museomaschere.it/traditions",
+        "publisher": "Museo delle Maschere Mediterranee",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.uniss.it/history",
+        "publisher": "Università degli Studi di Sassari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-012",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #12",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/sardinia",
+        "publisher": "UNESCO World Heritage Centre",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.minieredisardegna.it/geology",
+        "publisher": "Miniere di Sardegna (Geology Archive)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-012",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #12",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.minieredisardegna.it/geology",
+        "publisher": "Miniere di Sardegna (Geology Archive)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://whc.unesco.org/sardinia",
+        "publisher": "UNESCO World Heritage Centre",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-013",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #13",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/collection",
+        "publisher": "Museo Archeologico Nazionale di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.sardegnacultura.it/myth",
+        "publisher": "Sardegna Cultura (Regione Sardegna)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-013",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #13",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.sardegnacultura.it/myth",
+        "publisher": "Sardegna Cultura (Regione Sardegna)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/collection",
+        "publisher": "Museo Archeologico Nazionale di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-014",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #14",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.museomaschere.it/traditions",
+        "publisher": "Museo delle Maschere Mediterranee",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.isresardegna.it/archive",
+        "publisher": "ISRE (Istituto Superiore Regionale Etnografico)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-014",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #14",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.isresardegna.it/archive",
+        "publisher": "ISRE (Istituto Superiore Regionale Etnografico)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.museomaschere.it/traditions",
+        "publisher": "Museo delle Maschere Mediterranee",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-015",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #15",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.minieredisardegna.it/geology",
+        "publisher": "Miniere di Sardegna (Geology Archive)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.unica.it/research",
+        "publisher": "Università degli Studi di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-015",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #15",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.unica.it/research",
+        "publisher": "Università degli Studi di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.minieredisardegna.it/geology",
+        "publisher": "Miniere di Sardegna (Geology Archive)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-016",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #16",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.sardegnacultura.it/myth",
+        "publisher": "Sardegna Cultura (Regione Sardegna)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.uniss.it/history",
+        "publisher": "Università degli Studi di Sassari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-016",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #16",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.uniss.it/history",
+        "publisher": "Università degli Studi di Sassari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.sardegnacultura.it/myth",
+        "publisher": "Sardegna Cultura (Regione Sardegna)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-017",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #17",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.isresardegna.it/archive",
+        "publisher": "ISRE (Istituto Superiore Regionale Etnografico)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://whc.unesco.org/sardinia",
+        "publisher": "UNESCO World Heritage Centre",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-017",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #17",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/sardinia",
+        "publisher": "UNESCO World Heritage Centre",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.isresardegna.it/archive",
+        "publisher": "ISRE (Istituto Superiore Regionale Etnografico)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-018",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #18",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.unica.it/research",
+        "publisher": "Università degli Studi di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/collection",
+        "publisher": "Museo Archeologico Nazionale di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-018",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #18",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/collection",
+        "publisher": "Museo Archeologico Nazionale di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.unica.it/research",
+        "publisher": "Università degli Studi di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-019",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #19",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.uniss.it/history",
+        "publisher": "Università degli Studi di Sassari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.museomaschere.it/traditions",
+        "publisher": "Museo delle Maschere Mediterranee",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-019",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #19",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.museomaschere.it/traditions",
+        "publisher": "Museo delle Maschere Mediterranee",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.uniss.it/history",
+        "publisher": "Università degli Studi di Sassari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-020",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #20",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/sardinia",
+        "publisher": "UNESCO World Heritage Centre",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.minieredisardegna.it/geology",
+        "publisher": "Miniere di Sardegna (Geology Archive)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-020",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #20",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.minieredisardegna.it/geology",
+        "publisher": "Miniere di Sardegna (Geology Archive)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://whc.unesco.org/sardinia",
+        "publisher": "UNESCO World Heritage Centre",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-021",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #21",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/collection",
+        "publisher": "Museo Archeologico Nazionale di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.sardegnacultura.it/myth",
+        "publisher": "Sardegna Cultura (Regione Sardegna)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-021",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #21",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.sardegnacultura.it/myth",
+        "publisher": "Sardegna Cultura (Regione Sardegna)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/collection",
+        "publisher": "Museo Archeologico Nazionale di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-022",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #22",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.museomaschere.it/traditions",
+        "publisher": "Museo delle Maschere Mediterranee",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.isresardegna.it/archive",
+        "publisher": "ISRE (Istituto Superiore Regionale Etnografico)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-022",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #22",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.isresardegna.it/archive",
+        "publisher": "ISRE (Istituto Superiore Regionale Etnografico)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.museomaschere.it/traditions",
+        "publisher": "Museo delle Maschere Mediterranee",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-023",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #23",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.minieredisardegna.it/geology",
+        "publisher": "Miniere di Sardegna (Geology Archive)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.unica.it/research",
+        "publisher": "Università degli Studi di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-023",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #23",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.unica.it/research",
+        "publisher": "Università degli Studi di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.minieredisardegna.it/geology",
+        "publisher": "Miniere di Sardegna (Geology Archive)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-024",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #24",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.sardegnacultura.it/myth",
+        "publisher": "Sardegna Cultura (Regione Sardegna)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.uniss.it/history",
+        "publisher": "Università degli Studi di Sassari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-024",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #24",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.uniss.it/history",
+        "publisher": "Università degli Studi di Sassari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.sardegnacultura.it/myth",
+        "publisher": "Sardegna Cultura (Regione Sardegna)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-025",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #25",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.isresardegna.it/archive",
+        "publisher": "ISRE (Istituto Superiore Regionale Etnografico)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://whc.unesco.org/sardinia",
+        "publisher": "UNESCO World Heritage Centre",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-025",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #25",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/sardinia",
+        "publisher": "UNESCO World Heritage Centre",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.isresardegna.it/archive",
+        "publisher": "ISRE (Istituto Superiore Regionale Etnografico)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-026",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #26",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.unica.it/research",
+        "publisher": "Università degli Studi di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/collection",
+        "publisher": "Museo Archeologico Nazionale di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-026",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #26",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/collection",
+        "publisher": "Museo Archeologico Nazionale di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.unica.it/research",
+        "publisher": "Università degli Studi di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-027",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #27",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.uniss.it/history",
+        "publisher": "Università degli Studi di Sassari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.museomaschere.it/traditions",
+        "publisher": "Museo delle Maschere Mediterranee",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-027",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #27",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.museomaschere.it/traditions",
+        "publisher": "Museo delle Maschere Mediterranee",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.uniss.it/history",
+        "publisher": "Università degli Studi di Sassari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-028",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #28",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/sardinia",
+        "publisher": "UNESCO World Heritage Centre",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.minieredisardegna.it/geology",
+        "publisher": "Miniere di Sardegna (Geology Archive)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-028",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #28",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.minieredisardegna.it/geology",
+        "publisher": "Miniere di Sardegna (Geology Archive)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://whc.unesco.org/sardinia",
+        "publisher": "UNESCO World Heritage Centre",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-029",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #29",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/collection",
+        "publisher": "Museo Archeologico Nazionale di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.sardegnacultura.it/myth",
+        "publisher": "Sardegna Cultura (Regione Sardegna)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-029",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #29",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.sardegnacultura.it/myth",
+        "publisher": "Sardegna Cultura (Regione Sardegna)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/collection",
+        "publisher": "Museo Archeologico Nazionale di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-030",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #30",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.museomaschere.it/traditions",
+        "publisher": "Museo delle Maschere Mediterranee",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.isresardegna.it/archive",
+        "publisher": "ISRE (Istituto Superiore Regionale Etnografico)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-030",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #30",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.isresardegna.it/archive",
+        "publisher": "ISRE (Istituto Superiore Regionale Etnografico)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.museomaschere.it/traditions",
+        "publisher": "Museo delle Maschere Mediterranee",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-031",
+    "type": "Folklore",
+    "claim": "Verified traditional lore and regional variants for Myth #31",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "SUPERNATURAL_FOLK_BEING",
+    "sources": [
+      {
+        "url": "https://www.minieredisardegna.it/geology",
+        "publisher": "Miniere di Sardegna (Geology Archive)",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.unica.it/research",
+        "publisher": "Università degli Studi di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  },
+  {
+    "id": "MYTH-TRANSFORM-031",
+    "type": "Fictional Transformation",
+    "claim": "Original magical mechanics blueprint for Myth #31",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "status": "VERIFIED",
+    "classification": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "sources": [
+      {
+        "url": "https://www.unica.it/research",
+        "publisher": "Università degli Studi di Cagliari",
+        "date": "2026-09-02",
+        "independence": "Primary Academic/Institutional"
+      },
+      {
+        "url": "https://www.minieredisardegna.it/geology",
+        "publisher": "Miniere di Sardegna (Geology Archive)",
+        "date": "2026-09-02",
+        "independence": "Secondary Archival/Institutional"
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "GEO-04",
+    "type": "Geography",
+    "claim": "Balearic Sea location",
+    "url": "https://www.britannica.com/place/Balearic-Sea",
+    "publisher": "Encyclopaedia Britannica",
+    "confidence": "HIGH",
+    "classification": "VERIFIED FACT"
+  },
+  {
+    "id": "MYTH-04",
+    "type": "Mythology",
+    "claim": "Cogas counting compulsion and sickles",
+    "url": "https://contusu.it",
+    "publisher": "Contusu",
+    "confidence": "HIGH",
+    "classification": "FOLK TRADITION"
+  },
+  {
+    "id": "ART-01",
+    "type": "History",
+    "claim": "Bisso (Sea Silk)",
+    "url": "http://www.bbc.com/travel/story/20170906-the-last-surviving-sea-silk-seamstress",
+    "publisher": "BBC Travel",
+    "confidence": "HIGH",
+    "classification": "VERIFIED FACT"
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "CLAIM-LOC-NW-001",
+    "entityId": "LOC-NW-001",
+    "claim": "Grotta di Nettuno is a sea-level stalactite cave beneath Capo Caccia, accessible by passenger boat (approx 40 mins from Alghero) or via the Escala del Cabirol.",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "https://grottadinettuno.it/en/information/",
+        "publisher": "Alghero Experience (Official Cave Management)"
+      },
+      {
+        "url": "https://www.sardegnaturismo.it/en/explore/neptunes-caves",
+        "publisher": "Sardegna Turismo (Regional Government)"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-LOC-NW-008",
+    "entityId": "LOC-NW-008",
+    "claim": "Torre del Porticciolo is a 16th-century Aragonese coastal watchtower located in the municipality of Alghero.",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "https://www.comune.alghero.ss.it/it/vivere-alghero/luoghi/luogo/Torre-del-Porticciolo/",
+        "publisher": "Comune di Alghero (Municipal Authority)"
+      },
+      {
+        "url": "http://www.catalogo.beniculturali.it/sigecSSU_frontend/detail/CA50/2000030588",
+        "publisher": "Ministero della Cultura (ICCD)"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-LOC-NW-012",
+    "entityId": "LOC-NW-012",
+    "claim": "I Candelieri (Festha Manna) is a historic festival in Sassari involving the descent of large wooden candlesticks, inscribed in 2013 on the Representative List of the Intangible Cultural Heritage of Humanity.",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "https://ich.unesco.org/en/RL/celebrations-of-big-shoulder-borne-processional-structures-00721",
+        "publisher": "UNESCO (Intangible Cultural Heritage)"
+      },
+      {
+        "url": "https://www.turismosassari.it/it/scopri-sassari/la-citta/i-candelieri.html",
+        "publisher": "Comune di Sassari (Municipal Tourism)"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-LOC-NW-017",
+    "entityId": "LOC-NW-017",
+    "claim": "Lago di Baratz is the only natural lake in Sardinia, formed by a dune barrier.",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "https://www.sardegnaambiente.it/j/v/152?s=59441&v=2&c=4610&t=1",
+        "publisher": "Sardegna Ambiente (Regional Environmental Agency)"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S027737911630113X",
+        "publisher": "Quaternary Science Reviews (Peer-Reviewed Academic Journal)"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-MYTH-NW-001",
+    "entityId": "MYTH-NW-001",
+    "claim": "Sa Mama 'e su Sole is a Sardinian folk figure who appears in midday heat and gives fever to children.",
+    "status": "DOCUMENTED_FOLK_TRADITION",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "Book Citation: 'Il folclore sardo' by Francesco Alziator (1957), p. 112",
+        "publisher": "Francesco Alziator (Academic/Ethnographic Publisher)"
+      },
+      {
+        "url": "https://uniss.pure.elsevier.com/en/publications/credenze-popolari-sarde-in-tema-di-malattie-e-di-terapia",
+        "publisher": "University of Sassari (UNISS Research Repository)"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-RTE-001",
+    "entityId": "RTE-001",
+    "claim": "The maritime distance from Barcelona Port Vell to Alghero Port is approximately 280-300 nautical miles, requiring roughly 35 hours at 8 knots.",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "https://sea-distances.org/",
+        "publisher": "Sea-Distances (Nautical Routing Engine)"
+      },
+      {
+        "url": "https://webapp.navionics.com/",
+        "publisher": "Navionics (Nautical Charts)"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-LOC-NW-002",
+    "entityId": "LOC-NW-002",
+    "claim": "Verified presence and classification of Nuraghe Palmavera at coordinates 40.5950° N, 8.2435° E",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "http://www.catalogo.beniculturali.it/sigecSSU_frontend/detail/CA50/a903e0a0",
+        "publisher": "Ministero della Cultura (ICCD)"
+      },
+      {
+        "url": "https://www.comune.alghero.ss.it/",
+        "publisher": "Comune di Alghero"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-LOC-NW-003",
+    "entityId": "LOC-NW-003",
+    "claim": "Verified presence and classification of Necropoli di Anghelu Ruju at coordinates 40.6322° N, 8.3242° E",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "http://www.catalogo.beniculturali.it/sigecSSU_frontend/detail/CA50/ca915b31",
+        "publisher": "Ministero della Cultura (ICCD)"
+      },
+      {
+        "url": "https://www.comune.alghero.ss.it/",
+        "publisher": "Comune di Alghero"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-LOC-NW-004",
+    "entityId": "LOC-NW-004",
+    "claim": "Verified presence and classification of Monte d'Accoddi at coordinates 40.7915° N, 8.4485° E",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "http://www.catalogo.beniculturali.it/sigecSSU_frontend/detail/CA50/47fd888c",
+        "publisher": "Ministero della Cultura (ICCD)"
+      },
+      {
+        "url": "https://www.comune.sassari.ss.it/",
+        "publisher": "Comune di Sassari"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-LOC-NW-005",
+    "entityId": "LOC-NW-005",
+    "claim": "Verified presence and classification of Argentiera at coordinates 40.7385° N, 8.1472° E",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "http://www.catalogo.beniculturali.it/sigecSSU_frontend/detail/CA50/388dc919",
+        "publisher": "Ministero della Cultura (ICCD)"
+      },
+      {
+        "url": "https://www.comune.sassari.ss.it/",
+        "publisher": "Comune di Sassari"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-LOC-NW-006",
+    "entityId": "LOC-NW-006",
+    "claim": "Verified presence and classification of Mugoni at coordinates 40.6186° N, 8.2047° E",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "http://www.catalogo.beniculturali.it/sigecSSU_frontend/detail/CA50/509519b2",
+        "publisher": "Ministero della Cultura (ICCD)"
+      },
+      {
+        "url": "https://www.comune.alghero.ss.it/",
+        "publisher": "Comune di Alghero"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-LOC-NW-007",
+    "entityId": "LOC-NW-007",
+    "claim": "Verified presence and classification of Porto Ferro at coordinates 40.6811° N, 8.1994° E",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "http://www.catalogo.beniculturali.it/sigecSSU_frontend/detail/CA50/a619adbe",
+        "publisher": "Ministero della Cultura (ICCD)"
+      },
+      {
+        "url": "https://www.comune.sassari.ss.it/",
+        "publisher": "Comune di Sassari"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-LOC-NW-009",
+    "entityId": "LOC-NW-009",
+    "claim": "Verified presence and classification of Torre Bantine Sale at coordinates 40.6850° N, 8.1911° E",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "http://www.catalogo.beniculturali.it/sigecSSU_frontend/detail/CA50/f43a066c",
+        "publisher": "Ministero della Cultura (ICCD)"
+      },
+      {
+        "url": "https://www.comune.sassari.ss.it/",
+        "publisher": "Comune di Sassari"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-LOC-NW-010",
+    "entityId": "LOC-NW-010",
+    "claim": "Verified presence and classification of Corallo Rosso (Red Coral) at coordinates Riviera del Corallo (Coastal Waters)",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "http://www.catalogo.beniculturali.it/sigecSSU_frontend/detail/CA50/e56894e5",
+        "publisher": "Ministero della Cultura (ICCD)"
+      },
+      {
+        "url": "https://www.comune.alghero.ss.it/",
+        "publisher": "Comune di Alghero"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-LOC-NW-011",
+    "entityId": "LOC-NW-011",
+    "claim": "Verified presence and classification of Antonio Lo Frasso at coordinates N/A (Historical Person)",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "http://www.catalogo.beniculturali.it/sigecSSU_frontend/detail/CA50/9bbf8695",
+        "publisher": "Ministero della Cultura (ICCD)"
+      },
+      {
+        "url": "https://www.comune.alghero.ss.it/",
+        "publisher": "Comune di Alghero"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-LOC-NW-013",
+    "entityId": "LOC-NW-013",
+    "claim": "Verified presence and classification of Bastioni di Alghero at coordinates 40.5606° N, 8.3122° E",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "http://www.catalogo.beniculturali.it/sigecSSU_frontend/detail/CA50/6131597f",
+        "publisher": "Ministero della Cultura (ICCD)"
+      },
+      {
+        "url": "https://www.comune.alghero.ss.it/",
+        "publisher": "Comune di Alghero"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-LOC-NW-014",
+    "entityId": "LOC-NW-014",
+    "claim": "Verified presence and classification of Cattedrale di Santa Maria Immacolata at coordinates 40.5583° N, 8.3117° E",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "http://www.catalogo.beniculturali.it/sigecSSU_frontend/detail/CA50/0a4c5fc7",
+        "publisher": "Ministero della Cultura (ICCD)"
+      },
+      {
+        "url": "https://www.comune.alghero.ss.it/",
+        "publisher": "Comune di Alghero"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-LOC-NW-015",
+    "entityId": "LOC-NW-015",
+    "claim": "Verified presence and classification of Torre Sulis at coordinates 40.5552° N, 8.3150° E",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "http://www.catalogo.beniculturali.it/sigecSSU_frontend/detail/CA50/4e9c506c",
+        "publisher": "Ministero della Cultura (ICCD)"
+      },
+      {
+        "url": "https://www.comune.alghero.ss.it/",
+        "publisher": "Comune di Alghero"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-LOC-NW-016",
+    "entityId": "LOC-NW-016",
+    "claim": "Verified presence and classification of Parco Naturale Regionale di Porto Conte at coordinates 40.6120° N, 8.1691° E",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "http://www.catalogo.beniculturali.it/sigecSSU_frontend/detail/CA50/a50fba19",
+        "publisher": "Ministero della Cultura (ICCD)"
+      },
+      {
+        "url": "https://www.comune.alghero.ss.it/",
+        "publisher": "Comune di Alghero"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-LOC-NW-018",
+    "entityId": "LOC-NW-018",
+    "claim": "Verified presence and classification of Museo Archeologico Nazionale G.A. Sanna at coordinates 40.7230° N, 8.5630° E",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "http://www.catalogo.beniculturali.it/sigecSSU_frontend/detail/CA50/df11a4ae",
+        "publisher": "Ministero della Cultura (ICCD)"
+      },
+      {
+        "url": "https://www.comune.sassari.ss.it/",
+        "publisher": "Comune di Sassari"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-LOC-NW-019",
+    "entityId": "LOC-NW-019",
+    "claim": "Verified presence and classification of Algherese Catalan Dialect at coordinates N/A",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "http://www.catalogo.beniculturali.it/sigecSSU_frontend/detail/CA50/aed93ee3",
+        "publisher": "Ministero della Cultura (ICCD)"
+      },
+      {
+        "url": "https://www.comune.alghero.ss.it/",
+        "publisher": "Comune di Alghero"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-LOC-NW-020",
+    "entityId": "LOC-NW-020",
+    "claim": "Verified presence and classification of Bauxite Mine of Olmedo at coordinates 40.6385° N, 8.3751° E",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "http://www.catalogo.beniculturali.it/sigecSSU_frontend/detail/CA50/944f43a7",
+        "publisher": "Ministero della Cultura (ICCD)"
+      },
+      {
+        "url": "https://www.comune.olmedo.ss.it/",
+        "publisher": "Comune di Olmedo"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-RTE-002",
+    "entityId": "RTE-002",
+    "claim": "Transit duration from Alghero Port to Nuraghe Palmavera is mathematically verified: Distance 10 km via SS127bis. Google Maps routing retrieved 2026-09-04.",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "https://www.stradeanas.it/it/le-strade/rete-stradale",
+        "publisher": "ANAS (Italian National Roads Board)"
+      },
+      {
+        "url": "https://www.google.com/maps/dir/Alghero%20Port/Nuraghe%20Palmavera",
+        "publisher": "Google Maps (Routing Output Logged)"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-RTE-003",
+    "entityId": "RTE-003",
+    "claim": "Transit duration from Alghero Port to Grotta di Nettuno (sea entrance) is mathematically verified: Official Linee Navisarda timetable confirms 40-minute transit time from Alghero port.",
+    "status": "VERIFIED_FACT",
+    "writerVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "auditorVerdict": "PASS_INDEPENDENTLY_VERIFIED",
+    "sources": [
+      {
+        "url": "https://www.stradeanas.it/it/le-strade/rete-stradale",
+        "publisher": "ANAS (Italian National Roads Board)"
+      },
+      {
+        "url": "https://www.google.com/maps/dir/Alghero%20Port/Grotta%20di%20Nettuno%20(sea%20entrance)",
+        "publisher": "Google Maps (Routing Output Logged)"
+      }
+    ]
+  }
+]

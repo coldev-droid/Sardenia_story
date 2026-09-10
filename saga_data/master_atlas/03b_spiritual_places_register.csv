@@ -1,0 +1,16 @@
+ID,Name,Coordinates,Municipality,Province,Cultural_Period,Route_Order,Access_Status,Book_Chapter_Assignment
+S-1,Sacred Well 1,"40.0,8.7",Municipality 1,OR,Nuragic,9,Public,B1-C9
+S-2,Sacred Well 2,"40.0,8.7",Municipality 2,OR,Nuragic,18,Public,B1-C18
+S-3,Sacred Well 3,"40.0,8.7",Municipality 3,OR,Nuragic,27,Public,B1-C27
+S-4,Sacred Well 4,"40.0,8.7",Municipality 4,OR,Nuragic,36,Public,B2-C36
+S-5,Sacred Well 5,"40.0,8.7",Municipality 5,OR,Nuragic,45,Public,B2-C45
+S-6,Sacred Well 6,"40.0,8.7",Municipality 6,OR,Nuragic,54,Public,B2-C54
+S-7,Sacred Well 7,"40.0,8.7",Municipality 7,OR,Nuragic,63,Public,B3-C63
+S-8,Sacred Well 8,"40.0,8.7",Municipality 8,OR,Nuragic,72,Public,B3-C72
+S-9,Sacred Well 9,"40.0,8.7",Municipality 9,OR,Nuragic,81,Public,B3-C81
+S-10,Sacred Well 10,"40.0,8.7",Municipality 10,OR,Nuragic,90,Public,B4-C90
+S-11,Sacred Well 11,"40.0,8.7",Municipality 11,OR,Nuragic,99,Public,B4-C99
+S-12,Sacred Well 12,"40.0,8.7",Municipality 12,OR,Nuragic,108,Public,B4-C108
+S-13,Sacred Well 13,"40.0,8.7",Municipality 13,OR,Nuragic,117,Public,B5-C117
+S-14,Sacred Well 14,"40.0,8.7",Municipality 14,OR,Nuragic,126,Public,B5-C126
+S-15,Sacred Well 15,"40.0,8.7",Municipality 15,OR,Nuragic,135,Public,B5-C135

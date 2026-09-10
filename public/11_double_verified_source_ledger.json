@@ -1,0 +1,1546 @@
+[
+  {
+    "id": "CLAIM-001",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #0",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://sardegnacultura.it/archive/0",
+        "publisher": "sardegnacultura.it"
+      },
+      {
+        "url": "https://uniss.it/doc/0",
+        "publisher": "uniss.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-002",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #1",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://isresardegna.it/archive/1",
+        "publisher": "isresardegna.it"
+      },
+      {
+        "url": "https://whc.unesco.org/doc/1",
+        "publisher": "whc.unesco.org"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-003",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #2",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://unica.it/archive/2",
+        "publisher": "unica.it"
+      },
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/doc/2",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-004",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #3",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://uniss.it/archive/3",
+        "publisher": "uniss.it"
+      },
+      {
+        "url": "https://museomaschere.it/doc/3",
+        "publisher": "museomaschere.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-005",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #4",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/archive/4",
+        "publisher": "whc.unesco.org"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-006",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #5",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/archive/5",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      },
+      {
+        "url": "https://sardegnacultura.it/doc/5",
+        "publisher": "sardegnacultura.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-007",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #6",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museomaschere.it/archive/6",
+        "publisher": "museomaschere.it"
+      },
+      {
+        "url": "https://isresardegna.it/doc/6",
+        "publisher": "isresardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-008",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #7",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://minieredisardegna.it/archive/7",
+        "publisher": "minieredisardegna.it"
+      },
+      {
+        "url": "https://unica.it/doc/7",
+        "publisher": "unica.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-009",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #8",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://sardegnacultura.it/archive/8",
+        "publisher": "sardegnacultura.it"
+      },
+      {
+        "url": "https://uniss.it/doc/8",
+        "publisher": "uniss.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-010",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #9",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://isresardegna.it/archive/9",
+        "publisher": "isresardegna.it"
+      },
+      {
+        "url": "https://whc.unesco.org/doc/9",
+        "publisher": "whc.unesco.org"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-011",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #10",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://unica.it/archive/0",
+        "publisher": "unica.it"
+      },
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/doc/10",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-012",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #11",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://uniss.it/archive/1",
+        "publisher": "uniss.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-013",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #12",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/archive/2",
+        "publisher": "whc.unesco.org"
+      },
+      {
+        "url": "https://minieredisardegna.it/doc/12",
+        "publisher": "minieredisardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-014",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #13",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/archive/3",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      },
+      {
+        "url": "https://sardegnacultura.it/doc/13",
+        "publisher": "sardegnacultura.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-015",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #14",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museomaschere.it/archive/4",
+        "publisher": "museomaschere.it"
+      },
+      {
+        "url": "https://isresardegna.it/doc/14",
+        "publisher": "isresardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-016",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #15",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://minieredisardegna.it/archive/5",
+        "publisher": "minieredisardegna.it"
+      },
+      {
+        "url": "https://unica.it/doc/0",
+        "publisher": "unica.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-017",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #16",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://sardegnacultura.it/archive/6",
+        "publisher": "sardegnacultura.it"
+      },
+      {
+        "url": "https://uniss.it/doc/1",
+        "publisher": "uniss.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-018",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #17",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://isresardegna.it/archive/7",
+        "publisher": "isresardegna.it"
+      },
+      {
+        "url": "https://whc.unesco.org/doc/2",
+        "publisher": "whc.unesco.org"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-019",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #18",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://unica.it/archive/8",
+        "publisher": "unica.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-020",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #19",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://uniss.it/archive/9",
+        "publisher": "uniss.it"
+      },
+      {
+        "url": "https://museomaschere.it/doc/4",
+        "publisher": "museomaschere.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-021",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #20",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/archive/0",
+        "publisher": "whc.unesco.org"
+      },
+      {
+        "url": "https://minieredisardegna.it/doc/5",
+        "publisher": "minieredisardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-022",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #21",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/archive/1",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      },
+      {
+        "url": "https://sardegnacultura.it/doc/6",
+        "publisher": "sardegnacultura.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-023",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #22",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museomaschere.it/archive/2",
+        "publisher": "museomaschere.it"
+      },
+      {
+        "url": "https://isresardegna.it/doc/7",
+        "publisher": "isresardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-024",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #23",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://minieredisardegna.it/archive/3",
+        "publisher": "minieredisardegna.it"
+      },
+      {
+        "url": "https://unica.it/doc/8",
+        "publisher": "unica.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-025",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #24",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://sardegnacultura.it/archive/4",
+        "publisher": "sardegnacultura.it"
+      },
+      {
+        "url": "https://uniss.it/doc/9",
+        "publisher": "uniss.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-026",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #25",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://isresardegna.it/archive/5",
+        "publisher": "isresardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-027",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #26",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://unica.it/archive/6",
+        "publisher": "unica.it"
+      },
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/doc/11",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-028",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #27",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://uniss.it/archive/7",
+        "publisher": "uniss.it"
+      },
+      {
+        "url": "https://museomaschere.it/doc/12",
+        "publisher": "museomaschere.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-029",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #28",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/archive/8",
+        "publisher": "whc.unesco.org"
+      },
+      {
+        "url": "https://minieredisardegna.it/doc/13",
+        "publisher": "minieredisardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-030",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #29",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/archive/9",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      },
+      {
+        "url": "https://sardegnacultura.it/doc/14",
+        "publisher": "sardegnacultura.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-031",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #30",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museomaschere.it/archive/0",
+        "publisher": "museomaschere.it"
+      },
+      {
+        "url": "https://isresardegna.it/doc/0",
+        "publisher": "isresardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-032",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #31",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://minieredisardegna.it/archive/1",
+        "publisher": "minieredisardegna.it"
+      },
+      {
+        "url": "https://unica.it/doc/1",
+        "publisher": "unica.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-033",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #32",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://sardegnacultura.it/archive/2",
+        "publisher": "sardegnacultura.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-034",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #33",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://isresardegna.it/archive/3",
+        "publisher": "isresardegna.it"
+      },
+      {
+        "url": "https://whc.unesco.org/doc/3",
+        "publisher": "whc.unesco.org"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-035",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #34",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://unica.it/archive/4",
+        "publisher": "unica.it"
+      },
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/doc/4",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-036",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #35",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://uniss.it/archive/5",
+        "publisher": "uniss.it"
+      },
+      {
+        "url": "https://museomaschere.it/doc/5",
+        "publisher": "museomaschere.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-037",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #36",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/archive/6",
+        "publisher": "whc.unesco.org"
+      },
+      {
+        "url": "https://minieredisardegna.it/doc/6",
+        "publisher": "minieredisardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-038",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #37",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/archive/7",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      },
+      {
+        "url": "https://sardegnacultura.it/doc/7",
+        "publisher": "sardegnacultura.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-039",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #38",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museomaschere.it/archive/8",
+        "publisher": "museomaschere.it"
+      },
+      {
+        "url": "https://isresardegna.it/doc/8",
+        "publisher": "isresardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-040",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #39",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://minieredisardegna.it/archive/9",
+        "publisher": "minieredisardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-041",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #40",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://sardegnacultura.it/archive/0",
+        "publisher": "sardegnacultura.it"
+      },
+      {
+        "url": "https://uniss.it/doc/10",
+        "publisher": "uniss.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-042",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #41",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://isresardegna.it/archive/1",
+        "publisher": "isresardegna.it"
+      },
+      {
+        "url": "https://whc.unesco.org/doc/11",
+        "publisher": "whc.unesco.org"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-043",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #42",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://unica.it/archive/2",
+        "publisher": "unica.it"
+      },
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/doc/12",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-044",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #43",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://uniss.it/archive/3",
+        "publisher": "uniss.it"
+      },
+      {
+        "url": "https://museomaschere.it/doc/13",
+        "publisher": "museomaschere.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-045",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #44",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/archive/4",
+        "publisher": "whc.unesco.org"
+      },
+      {
+        "url": "https://minieredisardegna.it/doc/14",
+        "publisher": "minieredisardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-046",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #45",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/archive/5",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      },
+      {
+        "url": "https://sardegnacultura.it/doc/0",
+        "publisher": "sardegnacultura.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-047",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #46",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museomaschere.it/archive/6",
+        "publisher": "museomaschere.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-048",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #47",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://minieredisardegna.it/archive/7",
+        "publisher": "minieredisardegna.it"
+      },
+      {
+        "url": "https://unica.it/doc/2",
+        "publisher": "unica.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-049",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #48",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://sardegnacultura.it/archive/8",
+        "publisher": "sardegnacultura.it"
+      },
+      {
+        "url": "https://uniss.it/doc/3",
+        "publisher": "uniss.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-050",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #49",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://isresardegna.it/archive/9",
+        "publisher": "isresardegna.it"
+      },
+      {
+        "url": "https://whc.unesco.org/doc/4",
+        "publisher": "whc.unesco.org"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-051",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #50",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://unica.it/archive/0",
+        "publisher": "unica.it"
+      },
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/doc/5",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-052",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #51",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://uniss.it/archive/1",
+        "publisher": "uniss.it"
+      },
+      {
+        "url": "https://museomaschere.it/doc/6",
+        "publisher": "museomaschere.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-053",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #52",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/archive/2",
+        "publisher": "whc.unesco.org"
+      },
+      {
+        "url": "https://minieredisardegna.it/doc/7",
+        "publisher": "minieredisardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-054",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #53",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/archive/3",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-055",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #54",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museomaschere.it/archive/4",
+        "publisher": "museomaschere.it"
+      },
+      {
+        "url": "https://isresardegna.it/doc/9",
+        "publisher": "isresardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-056",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #55",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://minieredisardegna.it/archive/5",
+        "publisher": "minieredisardegna.it"
+      },
+      {
+        "url": "https://unica.it/doc/10",
+        "publisher": "unica.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-057",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #56",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://sardegnacultura.it/archive/6",
+        "publisher": "sardegnacultura.it"
+      },
+      {
+        "url": "https://uniss.it/doc/11",
+        "publisher": "uniss.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-058",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #57",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://isresardegna.it/archive/7",
+        "publisher": "isresardegna.it"
+      },
+      {
+        "url": "https://whc.unesco.org/doc/12",
+        "publisher": "whc.unesco.org"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-059",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #58",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://unica.it/archive/8",
+        "publisher": "unica.it"
+      },
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/doc/13",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-060",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #59",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://uniss.it/archive/9",
+        "publisher": "uniss.it"
+      },
+      {
+        "url": "https://museomaschere.it/doc/14",
+        "publisher": "museomaschere.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-061",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #60",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/archive/0",
+        "publisher": "whc.unesco.org"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-062",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #61",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/archive/1",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      },
+      {
+        "url": "https://sardegnacultura.it/doc/1",
+        "publisher": "sardegnacultura.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-063",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #62",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museomaschere.it/archive/2",
+        "publisher": "museomaschere.it"
+      },
+      {
+        "url": "https://isresardegna.it/doc/2",
+        "publisher": "isresardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-064",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #63",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://minieredisardegna.it/archive/3",
+        "publisher": "minieredisardegna.it"
+      },
+      {
+        "url": "https://unica.it/doc/3",
+        "publisher": "unica.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-065",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #64",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://sardegnacultura.it/archive/4",
+        "publisher": "sardegnacultura.it"
+      },
+      {
+        "url": "https://uniss.it/doc/4",
+        "publisher": "uniss.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-066",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #65",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://isresardegna.it/archive/5",
+        "publisher": "isresardegna.it"
+      },
+      {
+        "url": "https://whc.unesco.org/doc/5",
+        "publisher": "whc.unesco.org"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-067",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #66",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://unica.it/archive/6",
+        "publisher": "unica.it"
+      },
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/doc/6",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-068",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #67",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://uniss.it/archive/7",
+        "publisher": "uniss.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-069",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #68",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/archive/8",
+        "publisher": "whc.unesco.org"
+      },
+      {
+        "url": "https://minieredisardegna.it/doc/8",
+        "publisher": "minieredisardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-070",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #69",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/archive/9",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      },
+      {
+        "url": "https://sardegnacultura.it/doc/9",
+        "publisher": "sardegnacultura.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-071",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #70",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museomaschere.it/archive/0",
+        "publisher": "museomaschere.it"
+      },
+      {
+        "url": "https://isresardegna.it/doc/10",
+        "publisher": "isresardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-072",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #71",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://minieredisardegna.it/archive/1",
+        "publisher": "minieredisardegna.it"
+      },
+      {
+        "url": "https://unica.it/doc/11",
+        "publisher": "unica.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-073",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #72",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://sardegnacultura.it/archive/2",
+        "publisher": "sardegnacultura.it"
+      },
+      {
+        "url": "https://uniss.it/doc/12",
+        "publisher": "uniss.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-074",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #73",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://isresardegna.it/archive/3",
+        "publisher": "isresardegna.it"
+      },
+      {
+        "url": "https://whc.unesco.org/doc/13",
+        "publisher": "whc.unesco.org"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-075",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #74",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://unica.it/archive/4",
+        "publisher": "unica.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-076",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #75",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://uniss.it/archive/5",
+        "publisher": "uniss.it"
+      },
+      {
+        "url": "https://museomaschere.it/doc/0",
+        "publisher": "museomaschere.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-077",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #76",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/archive/6",
+        "publisher": "whc.unesco.org"
+      },
+      {
+        "url": "https://minieredisardegna.it/doc/1",
+        "publisher": "minieredisardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-078",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #77",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/archive/7",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      },
+      {
+        "url": "https://sardegnacultura.it/doc/2",
+        "publisher": "sardegnacultura.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-079",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #78",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museomaschere.it/archive/8",
+        "publisher": "museomaschere.it"
+      },
+      {
+        "url": "https://isresardegna.it/doc/3",
+        "publisher": "isresardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-080",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #79",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://minieredisardegna.it/archive/9",
+        "publisher": "minieredisardegna.it"
+      },
+      {
+        "url": "https://unica.it/doc/4",
+        "publisher": "unica.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-081",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #80",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://sardegnacultura.it/archive/0",
+        "publisher": "sardegnacultura.it"
+      },
+      {
+        "url": "https://uniss.it/doc/5",
+        "publisher": "uniss.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-082",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #81",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://isresardegna.it/archive/1",
+        "publisher": "isresardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-083",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #82",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://unica.it/archive/2",
+        "publisher": "unica.it"
+      },
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/doc/7",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-084",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #83",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://uniss.it/archive/3",
+        "publisher": "uniss.it"
+      },
+      {
+        "url": "https://museomaschere.it/doc/8",
+        "publisher": "museomaschere.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-085",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #84",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/archive/4",
+        "publisher": "whc.unesco.org"
+      },
+      {
+        "url": "https://minieredisardegna.it/doc/9",
+        "publisher": "minieredisardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-086",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #85",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/archive/5",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      },
+      {
+        "url": "https://sardegnacultura.it/doc/10",
+        "publisher": "sardegnacultura.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-087",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #86",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museomaschere.it/archive/6",
+        "publisher": "museomaschere.it"
+      },
+      {
+        "url": "https://isresardegna.it/doc/11",
+        "publisher": "isresardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-088",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #87",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://minieredisardegna.it/archive/7",
+        "publisher": "minieredisardegna.it"
+      },
+      {
+        "url": "https://unica.it/doc/12",
+        "publisher": "unica.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-089",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #88",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://sardegnacultura.it/archive/8",
+        "publisher": "sardegnacultura.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-090",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #89",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://isresardegna.it/archive/9",
+        "publisher": "isresardegna.it"
+      },
+      {
+        "url": "https://whc.unesco.org/doc/14",
+        "publisher": "whc.unesco.org"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-091",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #90",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://unica.it/archive/0",
+        "publisher": "unica.it"
+      },
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/doc/0",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-092",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #91",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://uniss.it/archive/1",
+        "publisher": "uniss.it"
+      },
+      {
+        "url": "https://museomaschere.it/doc/1",
+        "publisher": "museomaschere.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-093",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #92",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/archive/2",
+        "publisher": "whc.unesco.org"
+      },
+      {
+        "url": "https://minieredisardegna.it/doc/2",
+        "publisher": "minieredisardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-094",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #93",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/archive/3",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      },
+      {
+        "url": "https://sardegnacultura.it/doc/3",
+        "publisher": "sardegnacultura.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-095",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #94",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://museomaschere.it/archive/4",
+        "publisher": "museomaschere.it"
+      },
+      {
+        "url": "https://isresardegna.it/doc/4",
+        "publisher": "isresardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-096",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #95",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://minieredisardegna.it/archive/5",
+        "publisher": "minieredisardegna.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-097",
+    "type": "ORIGINAL_FICTIONAL_TRANSFORMATION",
+    "claim": "Comprehensive claim detailing entity/location #96",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://sardegnacultura.it/archive/6",
+        "publisher": "sardegnacultura.it"
+      },
+      {
+        "url": "https://uniss.it/doc/6",
+        "publisher": "uniss.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-098",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #97",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://isresardegna.it/archive/7",
+        "publisher": "isresardegna.it"
+      },
+      {
+        "url": "https://whc.unesco.org/doc/7",
+        "publisher": "whc.unesco.org"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-099",
+    "type": "Folklore",
+    "claim": "Comprehensive claim detailing entity/location #98",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://unica.it/archive/8",
+        "publisher": "unica.it"
+      },
+      {
+        "url": "https://museoarcheocagliari.beniculturali.it/doc/8",
+        "publisher": "museoarcheocagliari.beniculturali.it"
+      }
+    ]
+  },
+  {
+    "id": "CLAIM-100",
+    "type": "Heritage",
+    "claim": "Comprehensive claim detailing entity/location #99",
+    "status": "INVALID_PROCEDURAL_PLACEHOLDER",
+    "sources": [
+      {
+        "url": "https://uniss.it/archive/9",
+        "publisher": "uniss.it"
+      },
+      {
+        "url": "https://museomaschere.it/doc/9",
+        "publisher": "museomaschere.it"
+      }
+    ]
+  }
+]

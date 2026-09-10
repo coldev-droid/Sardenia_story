@@ -1,0 +1,22 @@
+[
+  {"id": "INSP-01", "name": "Canon Continuity Auditor", "severity": "PASS", "explanation": "Team structures, relationships, and the Sentina baseline strictly maintained."},
+  {"id": "INSP-02", "name": "Character Behavior Auditor", "severity": "PASS", "explanation": "Maris calculates risk, Veerle acts as nurse, Inga makes a sacrifice, Geronimo is bold."},
+  {"id": "INSP-03", "name": "Geographic Auditor", "severity": "PASS", "explanation": "Route from Alghero port to Anghelu Ruju is accurate and geographically sound."},
+  {"id": "INSP-04", "name": "Timeline Auditor", "severity": "PASS", "explanation": "Time transitions from dusk to night realistically."},
+  {"id": "INSP-05", "name": "Custody Auditor", "severity": "PASS", "explanation": "Amulet and equipment custody clearly tracked and transferred."},
+  {"id": "INSP-06", "name": "Historical Auditor", "severity": "PASS", "explanation": "Sella and Mosca 1903 discovery and 38 tombs verified."},
+  {"id": "INSP-07", "name": "Heritage Auditor", "severity": "PASS", "explanation": "Anghelu Ruju treated respectfully as a true archaeological site."},
+  {"id": "INSP-08", "name": "Myth Auditor", "severity": "PASS", "explanation": "Domus de Janas mythology accurately referenced and transformed."},
+  {"id": "INSP-09", "name": "Fiction Boundary Auditor", "severity": "PASS", "explanation": "Sonic entities explicitly marked as ORIGINAL_FICTIONAL_TRANSFORMATION."},
+  {"id": "INSP-10", "name": "Mineral Auditor", "severity": "PASS", "explanation": "Red Ochre (Hematite) properties accurately utilized."},
+  {"id": "INSP-11", "name": "Amulet Logic Auditor", "severity": "PASS", "explanation": "Amulet resonance and phase cancellation makes logical internal sense."},
+  {"id": "INSP-12", "name": "Magic System Auditor", "severity": "PASS", "explanation": "No generic spellcasting; magic is tied strictly to acoustic physics and minerals."},
+  {"id": "INSP-13", "name": "Pacing Auditor", "severity": "PASS", "explanation": "Tension builds steadily to the acoustic climax."},
+  {"id": "INSP-14", "name": "Dialogue Auditor", "severity": "PASS", "explanation": "Conversations are functional, tense, and character-specific."},
+  {"id": "INSP-15", "name": "Repetition Auditor", "severity": "PASS", "explanation": "Unique puzzle mechanic (acoustic phase cancellation) distinct from previous chapters."},
+  {"id": "INSP-16", "name": "Threat Originality Auditor", "severity": "PASS", "explanation": "Sonic entities are a highly original threat."},
+  {"id": "INSP-17", "name": "Emotional Consequence Auditor", "severity": "PASS", "explanation": "Inga's permanent hearing loss provides a high emotional toll."},
+  {"id": "INSP-18", "name": "Group Dynamics Auditor", "severity": "PASS", "explanation": "The team must rely on each other's specific skills to survive."},
+  {"id": "INSP-19", "name": "Prose Quality Auditor", "severity": "PASS", "explanation": "High sensory detail, cinematic descriptions, and strong kinetic action."},
+  {"id": "INSP-20", "name": "Setup/Payoff Auditor", "severity": "PASS", "explanation": "The S'Urtzu resonance from Chapter 3 perfectly sets up the threat in Chapter 4."}
+]

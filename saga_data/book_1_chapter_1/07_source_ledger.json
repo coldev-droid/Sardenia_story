@@ -1,0 +1,29 @@
+[
+  {
+    "id": "LOC-01",
+    "type": "Geography",
+    "claim": "El Raval is a neighborhood in Barcelona",
+    "url": "https://www.barcelonaturisme.com",
+    "publisher": "Barcelona Turisme",
+    "confidence": "HIGH",
+    "classification": "VERIFIED FACT"
+  },
+  {
+    "id": "LOC-02",
+    "type": "Geography",
+    "claim": "Drassanes are the medieval shipyards",
+    "url": "https://www.mmb.cat",
+    "publisher": "Museu Marítim de Barcelona",
+    "confidence": "HIGH",
+    "classification": "VERIFIED FACT"
+  },
+  {
+    "id": "LOC-03",
+    "type": "Geography",
+    "claim": "Port Vell is a marina in Barcelona",
+    "url": "https://www.portvellbcn.cat",
+    "publisher": "Port Vell Official",
+    "confidence": "HIGH",
+    "classification": "VERIFIED FACT"
+  }
+]

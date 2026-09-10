@@ -1,0 +1,13 @@
+ID,Name,Coordinates,Municipality,Province,Cultural_Period,Route_Order,Access_Status,Book_Chapter_Assignment
+CA-1,Grotta 1,"40.5,8.1",Municipality 1,NU,Natural,11,Public,B1-C11
+CA-2,Grotta 2,"40.5,8.1",Municipality 2,NU,Natural,22,Public,B1-C22
+CA-3,Grotta 3,"40.5,8.1",Municipality 3,NU,Natural,33,Public,B2-C33
+CA-4,Grotta 4,"40.5,8.1",Municipality 4,NU,Natural,44,Public,B2-C44
+CA-5,Grotta 5,"40.5,8.1",Municipality 5,NU,Natural,55,Public,B3-C55
+CA-6,Grotta 6,"40.5,8.1",Municipality 6,NU,Natural,66,Public,B3-C66
+CA-7,Grotta 7,"40.5,8.1",Municipality 7,NU,Natural,77,Public,B4-C77
+CA-8,Grotta 8,"40.5,8.1",Municipality 8,NU,Natural,88,Public,B4-C88
+CA-9,Grotta 9,"40.5,8.1",Municipality 9,NU,Natural,99,Public,B5-C99
+CA-10,Grotta 10,"40.5,8.1",Municipality 10,NU,Natural,110,Public,B5-C110
+CA-11,Grotta 11,"40.5,8.1",Municipality 11,NU,Natural,121,Public,B6-C121
+CA-12,Grotta 12,"40.5,8.1",Municipality 12,NU,Natural,132,Public,B6-C132

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "GEO-05",
+    "type": "Geography",
+    "claim": "Porto di Alghero",
+    "url": "https://www.algheroturismo.eu/en/",
+    "publisher": "Alghero Turismo",
+    "confidence": "HIGH",
+    "classification": "VERIFIED FACT"
+  },
+  {
+    "id": "GEO-06",
+    "type": "Geography",
+    "claim": "Capo Caccia and Grotta di Nettuno sea entrance",
+    "url": "https://en.wikipedia.org/wiki/Neptune%27s_Grotto",
+    "publisher": "Wikipedia",
+    "confidence": "HIGH",
+    "classification": "VERIFIED FACT"
+  },
+  {
+    "id": "MYTH-05",
+    "type": "Mythology",
+    "claim": "S'Urtzu carnival mask and behavior",
+    "url": "https://janass.eu",
+    "publisher": "Janas",
+    "confidence": "HIGH",
+    "classification": "FOLK TRADITION"
+  }
+]

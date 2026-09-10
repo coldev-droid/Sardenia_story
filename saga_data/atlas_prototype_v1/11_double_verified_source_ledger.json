@@ -1,0 +1,98 @@
+[
+  {
+    "id": "M-MAM",
+    "claim": "Mamuthones and Issohadores of Mamoiada ritual behavior and dress.",
+    "url1": "https://www.museomaschere.it/en/mamoiada-museum-system/",
+    "publisher1": "Mamoiada Museum System",
+    "url2": "https://www.sardegnaturismo.it/en/explore/museo-delle-maschere-mediterranee",
+    "publisher2": "Sardegna Turismo",
+    "access_date": "2026-09-02",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "classification": "RITUAL_MASK_TRADITION"
+  },
+  {
+    "id": "M-COG",
+    "claim": "Cogas (vampiric witches) have a small vestigial tail and cannot count past seven.",
+    "url1": "https://www.contusu.it/is-cogas/",
+    "publisher1": "Contusu",
+    "url2": "https://www.sardegnacultura.it/j/v/253?s=20560&v=2&c=2488&c1=2123&t=1",
+    "publisher2": "Sardegna Cultura",
+    "access_date": "2026-09-02",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "classification": "SUPERNATURAL_FOLK_BEING"
+  },
+  {
+    "id": "M-JAN",
+    "claim": "Janas are fairies residing in pre-Nuragic rock-cut tombs, associated with weaving.",
+    "url1": "https://www.sardegnacultura.it/j/v/253?s=20560&v=2&c=2488&c1=2123&t=1",
+    "publisher1": "Sardegna Cultura",
+    "url2": "https://whc.unesco.org/en/tentativelists/6523/",
+    "publisher2": "UNESCO",
+    "access_date": "2026-09-02",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "classification": "SUPERNATURAL_FOLK_BEING"
+  },
+  {
+    "id": "M-ERC",
+    "claim": "Erchitu is a man cursed to turn into a white ox with devil-lit candles on its horns; roars three times before a house to signal death.",
+    "url1": "https://mythicalencyclopedia.com/erchitu/",
+    "publisher1": "Mythical Encyclopedia",
+    "url2": "https://www.sardiniamagicexperience.com/erchitu/",
+    "publisher2": "Sardinia Magic Experience",
+    "access_date": "2026-09-02",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "classification": "SUPERNATURAL_FOLK_BEING"
+  },
+  {
+    "id": "M-MAS",
+    "claim": "Maskinganna is a master of deception and trickster demon of the forest, known to disturb sleepers and misdirect travelers.",
+    "url1": "https://www.contusu.it/il-maskinganna/",
+    "publisher1": "Contusu",
+    "url2": "https://www.sardegnalive.net/news/in-sardegna/38641/maskinganna-il-diavolo-dispettoso-che-si-nasconde-tra-i-boschi-della-sardegna",
+    "publisher2": "Sardegna Live",
+    "access_date": "2026-09-02",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "classification": "SUPERNATURAL_FOLK_BEING"
+  },
+  {
+    "id": "M-AMM",
+    "claim": "S'Ammutadori causes sleep paralysis, heavy chest pressure, and feeds on nightmares.",
+    "url1": "https://www.unionesarda.it/news-sardegna/sammutadori-il-demone-del-sonno-nella-tradizione-sarda-29q7",
+    "publisher1": "L'Unione Sarda",
+    "url2": "https://www.notiziesarde.it/sammutadori/",
+    "publisher2": "Notizie Sarde",
+    "access_date": "2026-09-02",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "classification": "SUPERNATURAL_FOLK_BEING"
+  },
+  {
+    "id": "M-SCU",
+    "claim": "Su Scultone is a dragon/serpent that lived in the Golgo plateau, defeated by St. Peter who cast it into the Su Sterru sinkhole.",
+    "url1": "https://www.unionesarda.it/news-sardegna/ogliastra/la-leggenda-di-su-scultone-il-drago-di-baunei-sconfitto-da-san-pietro-5x",
+    "publisher1": "L'Unione Sarda",
+    "url2": "https://www.agugliastra.it/su-scultone/",
+    "publisher2": "Agugliastra",
+    "access_date": "2026-09-02",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "classification": "SUPERNATURAL_FOLK_BEING"
+  },
+  {
+    "id": "M-ARG",
+    "claim": "Argia is a venomous spider bite possession cured only by a frenzied traditional dance (su ballu de s'arzia).",
+    "url1": "https://www.thelocal.it/2018/su-ballu-de-sarzia/",
+    "publisher1": "The Local Italy",
+    "url2": "https://www.contusu.it/argia/",
+    "publisher2": "Contusu",
+    "access_date": "2026-09-02",
+    "researcher_verdict": "PASS",
+    "auditor_verdict": "PASS",
+    "classification": "FOLK_BELIEF_OR_OMEN"
+  }
+]

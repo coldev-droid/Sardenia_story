@@ -1,0 +1,54 @@
+{
+  "region": "Northwest and Nurra",
+  "claims": [
+    {
+      "id": "CLAIM-101",
+      "type": "Heritage",
+      "claim": "Nuraghe Palmavera is a Middle Bronze Age complex in Alghero consisting of two main towers and a village of approximately 150-200 huts.",
+      "status": "VERIFIED",
+      "sources": [
+        { "url": "https://www.sardegnacultura.it/j/v/253?s=20743&v=2&c=2488&c1=2124&t=1", "publisher": "sardegnacultura.it" },
+        { "url": "https://sardegnaversounesco.org/nuraghe-palmavera-alghero/", "publisher": "sardegnaversounesco.org" }
+      ]
+    },
+    {
+      "id": "CLAIM-102",
+      "type": "Heritage",
+      "claim": "The Necropolis of Anghelu Ruju contains 38 'domus de janas' (rock-cut tombs) featuring architectural details like false doors and was used from the Late Neolithic through the early Bronze Age.",
+      "status": "VERIFIED",
+      "sources": [
+        { "url": "https://www.sardegnacultura.it/j/v/253?s=20745&v=2&c=2488&c1=2123&t=1", "publisher": "sardegnacultura.it" },
+        { "url": "https://algheroexperience.it/en/culture/history-and-archaeology/anghelu-ruju-necropolis/", "publisher": "algheroexperience.it" }
+      ]
+    },
+    {
+      "id": "CLAIM-103",
+      "type": "Folklore",
+      "claim": "Sa Mama 'e su Sole (Mother of the Sun) is a mythical figure in Sardinian folklore who appears during the hottest hours of the day and leaves a fever mark on children who venture outside.",
+      "status": "VERIFIED",
+      "sources": [
+        { "url": "https://distrettoculturaledelnuorese.it/sa-mama-e-su-sole/", "publisher": "distrettoculturaledelnuorese.it" },
+        { "url": "https://www.unionesarda.it/news-sardegna/la-leggenda-di-sa-mama-e-su-sole-lo-spauracchio-dei-bambini-sardi-r8s8z3c6", "publisher": "unionesarda.it" }
+      ]
+    },
+    {
+      "id": "CLAIM-104",
+      "type": "Geology/Geography",
+      "claim": "Grotta di Nettuno is a sea-level cave located beneath Capo Caccia in Alghero, reachable by sea or via the Escala del Cabirol.",
+      "status": "VERIFIED",
+      "sources": [
+        { "url": "https://grottadinettuno.it/", "publisher": "grottadinettuno.it" },
+        { "url": "https://sardegnaturismo.it/en/explore/neptunes-cave-grotta-di-nettuno", "publisher": "sardegnaturismo.it" }
+      ]
+    }
+  ],
+  "myths": [
+    {
+      "id": "M-31",
+      "name": "Sa Mama 'e su Sole",
+      "role": "Hunters / Deceivers",
+      "status": "VERIFIED_CANDIDATE",
+      "diff": "Researched and validated via authentic sources"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+# Canonical Source Record: canonical-source/reference/SARDINIA_SAGA_TWELVE_AMULETS_ROUTE_AND_FINAL_PUZZLE.md

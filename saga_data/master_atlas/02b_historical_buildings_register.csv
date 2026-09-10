@@ -1,0 +1,16 @@
+ID,Name,Coordinates,Municipality,Province,Cultural_Period,Route_Order,Access_Status,Book_Chapter_Assignment
+HB-1,Historic Building 1,"39.7,-8.9",Municipality 1,SS,16th C,8,Museum,B1-C8
+HB-2,Historic Building 2,"39.7,-8.9",Municipality 2,SS,16th C,16,Museum,B1-C16
+HB-3,Historic Building 3,"39.7,-8.9",Municipality 3,SS,16th C,24,Museum,B1-C24
+HB-4,Historic Building 4,"39.7,-8.9",Municipality 4,SS,16th C,32,Museum,B2-C32
+HB-5,Historic Building 5,"39.7,-8.9",Municipality 5,SS,16th C,40,Museum,B2-C40
+HB-6,Historic Building 6,"39.7,-8.9",Municipality 6,SS,16th C,48,Museum,B2-C48
+HB-7,Historic Building 7,"39.7,-8.9",Municipality 7,SS,16th C,56,Museum,B3-C56
+HB-8,Historic Building 8,"39.7,-8.9",Municipality 8,SS,16th C,64,Museum,B3-C64
+HB-9,Historic Building 9,"39.7,-8.9",Municipality 9,SS,16th C,72,Museum,B3-C72
+HB-10,Historic Building 10,"39.7,-8.9",Municipality 10,SS,16th C,80,Museum,B4-C80
+HB-11,Historic Building 11,"39.7,-8.9",Municipality 11,SS,16th C,88,Museum,B4-C88
+HB-12,Historic Building 12,"39.7,-8.9",Municipality 12,SS,16th C,96,Museum,B4-C96
+HB-13,Historic Building 13,"39.7,-8.9",Municipality 13,SS,16th C,104,Museum,B5-C104
+HB-14,Historic Building 14,"39.7,-8.9",Municipality 14,SS,16th C,112,Museum,B5-C112
+HB-15,Historic Building 15,"39.7,-8.9",Municipality 15,SS,16th C,120,Museum,B5-C120

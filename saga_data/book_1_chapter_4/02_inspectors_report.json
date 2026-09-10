@@ -1,0 +1,42 @@
+[
+  {
+    "id": "INSP-01",
+    "name": "Canon Continuity Auditor",
+    "severity": "PASS",
+    "exactQuotation": "",
+    "explanation": "The chapter maintains internal narrative consistency, properly tracks both operational teams (Team A at Grotta di Nettuno and Team B in L'Alguer), and accurately aligns with real-world geographical details and established lore constraints regarding the Obsidian Splinter, Bisso sea silk, and ground electrical mechanics.",
+    "smallestSafeCorrection": ""
+  },
+  {
+    "id": "INSP-02",
+    "name": "Geographic Routing Auditor",
+    "severity": "PASS",
+    "exactQuotation": "",
+    "explanation": "All geographic locations, spatial relationships, distances, and routing details—including Capo Caccia, the Escala del Cabirol, Grotta di Nettuno, Lago Lamarmora, L'Alguer (Alghero), Via Doria, and the Bastione di San Giacomo—are accurate and physically realistic.",
+    "smallestSafeCorrection": ""
+  },
+  {
+    "id": "INSP-03",
+    "name": "Zero-Invention Firewall",
+    "severity": "PASS",
+    "exactQuotation": "",
+    "explanation": "All referenced real-world locations, historical structures, and cultural artifacts—including Capo Caccia, Escala del Cabirol, Grotta di Nettuno, Lago Lamarmora, L'Alguer (Alghero), Via Doria, Bastione di San Giacomo, Catalan-Aragonese bastions, and Bisso (sea silk)—are accurate to real-world geography, history, and Sardinian heritage. No historical figures, places, or artifacts have been invented.",
+    "smallestSafeCorrection": ""
+  },
+  {
+    "id": "INSP-04",
+    "name": "Mythological Authenticity",
+    "severity": "PASS",
+    "exactQuotation": "",
+    "explanation": "The draft consistently and accurately applies the authorized fictional transformations of Sardinian folklore. S'Urtzu is integrated as a subterranean acoustic resonance, Bisso (sea silk) functions as a harmonic kinetic dampener, and the Cogas manifest through avian surveillance and conductive electrical disruption halted by traditional dry saline warding.",
+    "smallestSafeCorrection": ""
+  },
+  {
+    "id": "INSP-05",
+    "name": "Parallel Timeline Auditor",
+    "severity": "PASS",
+    "exactQuotation": "",
+    "explanation": "Teams A and B are logically separated without character overlap, temporal bleeding, or contradictory actions. Team A (Veerle, Geronimo, Katia) operates at Capo Caccia/Grotta di Nettuno managing the Bisso thread and Obsidian Splinter, while Team B (Maris, André, Mia, Tina, Inga) is located 12 nautical miles away in L'Alguer securing materials and prepping the cutter Sentina.",
+    "smallestSafeCorrection": ""
+  }
+]

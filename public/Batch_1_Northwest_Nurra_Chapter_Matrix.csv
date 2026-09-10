@@ -1,0 +1,7 @@
+Book,Chapter,Departure,Transit_Method,Distance_Time,Arrival,Primary_Myth
+1,1,"Barcelona","Vehicle/Foot","1hr","Port Vell (Sentina)","None"
+1,2,"Port Vell","Boat (Sentina)","24hr","Balearic Sea","None"
+1,3,"Balearic Sea","Boat (Sentina)","12hr","Alghero Port","None"
+1,4,"Alghero Port","Boat","45m","Capo Caccia (Grotta di Nettuno)","Sa Mama 'e su Sole (Observation)"
+1,5,"Capo Caccia","Vehicle","30m","Nuraghe Palmavera","Sa Mama 'e su Sole (Encounter)"
+1,6,"Nuraghe Palmavera","Vehicle","15m","Anghelu Ruju","None"

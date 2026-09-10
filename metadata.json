@@ -1,0 +1,6 @@
+{
+  "name": "The Brain - Sardinia Magical Adventure Books",
+  "description": "Award-winning AI authoring studio and generator for 5 epic magical adventure books set in ancient and mystical Sardinia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

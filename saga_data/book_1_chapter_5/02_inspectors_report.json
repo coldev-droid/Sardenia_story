@@ -1,0 +1,42 @@
+[
+  {
+    "id": "INSP-01",
+    "name": "Canon Continuity Auditor",
+    "severity": "PASS",
+    "exactQuotation": "",
+    "explanation": "The draft maintains consistent internal logic, spatial relationships, character movements, and technical constraints throughout the chapter.",
+    "smallestSafeCorrection": ""
+  },
+  {
+    "id": "INSP-02",
+    "name": "Geographic Routing Auditor",
+    "severity": "PASS",
+    "exactQuotation": "Leaving the shelter of the port moles, the cutter entered the rolling chop of the Rada di Alghero. To the west, twelve nautical miles across open water, the sheer white limestone headland of Capo Caccia rose one hundred and ten meters out of the grey sea",
+    "explanation": "Travel time conflict resolved.",
+    "smallestSafeCorrection": ""
+  },
+  {
+    "id": "INSP-03",
+    "name": "Zero-Invention Firewall",
+    "severity": "PASS",
+    "exactQuotation": "",
+    "explanation": "All real-world locations, historical structures, and cultural elements referenced—including Alghero, Bastione di San Giacomo, the Aragonese ramparts, Rada di Alghero, Capo Caccia, Grotta di Nettuno, Lago Lamarmora, Sala Reggia, Tribuna della Musica, Escala del Cabirol (including its 654 steps), Domus de Janas, Nuoro, and Bisso sea silk—are authentic historical, geographical, and cultural entities of Sardinia.",
+    "smallestSafeCorrection": ""
+  },
+  {
+    "id": "INSP-04",
+    "name": "Mythological Authenticity",
+    "severity": "PASS",
+    "exactQuotation": "",
+    "explanation": "The narrative accurately integrates authentic Sardinian mythic elements—including Bisso (sea silk from Pinna nobilis), the ancestral pulse of S'Urtzu, and the Domus de Janas network—maintaining consistent behavioral logic for how these mythic forces interact with modern materials like lead, salt, and acoustic resonance.",
+    "smallestSafeCorrection": ""
+  },
+  {
+    "id": "INSP-05",
+    "name": "Parallel Timeline Auditor",
+    "severity": "PASS",
+    "exactQuotation": "",
+    "explanation": "Teams A (vessel crew: Maris, Inga, André, Mia, Tina) and B (cave shore party: Katia, Geronimo, Veerle) are logically separated across distinct locations and timelines. Their roles and actions do not overlap or conflict until the planned physical rendezvous at the landing platform of Capo Caccia.",
+    "smallestSafeCorrection": ""
+  }
+]

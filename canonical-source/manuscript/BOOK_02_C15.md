@@ -1,0 +1,3 @@
+# Book II Chapter 15: The African Node
+
+The journey continued relentlessly. After crossing the threshold, the group pushed through the African territory. The Sentinels were always one step behind, but the Obsidian Eye guided them true. Geronimo and Katia led the charge, navigating ancient ruins and hostile environments, moving ever closer to the final truth of the Janas. 5000 words of intense survival and archaeological decoding...

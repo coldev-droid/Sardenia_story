@@ -1,0 +1,11 @@
+ID,Name,Coordinates,Municipality,Province,Cultural_Period,Route_Order,Access_Status,Book_Chapter_Assignment
+NW-1,Natural Wonder 1,"40.0,9.6",Municipality 1,NU,Karst/Basalt,12,Public,B1-C12
+NW-2,Natural Wonder 2,"40.0,9.6",Municipality 2,NU,Karst/Basalt,24,Public,B1-C24
+NW-3,Natural Wonder 3,"40.0,9.6",Municipality 3,NU,Karst/Basalt,36,Public,B2-C36
+NW-4,Natural Wonder 4,"40.0,9.6",Municipality 4,NU,Karst/Basalt,48,Public,B2-C48
+NW-5,Natural Wonder 5,"40.0,9.6",Municipality 5,NU,Karst/Basalt,60,Public,B3-C60
+NW-6,Natural Wonder 6,"40.0,9.6",Municipality 6,NU,Karst/Basalt,72,Public,B3-C72
+NW-7,Natural Wonder 7,"40.0,9.6",Municipality 7,NU,Karst/Basalt,84,Public,B4-C84
+NW-8,Natural Wonder 8,"40.0,9.6",Municipality 8,NU,Karst/Basalt,96,Public,B4-C96
+NW-9,Natural Wonder 9,"40.0,9.6",Municipality 9,NU,Karst/Basalt,108,Public,B5-C108
+NW-10,Natural Wonder 10,"40.0,9.6",Municipality 10,NU,Karst/Basalt,120,Public,B5-C120

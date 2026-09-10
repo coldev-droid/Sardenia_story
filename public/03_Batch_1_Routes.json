@@ -1,0 +1,35 @@
+[
+  {
+    "id": "RTE-001",
+    "departure": "Port Vell, Barcelona (41.376° N, 2.189° E)",
+    "transit": "Sea Crossing aboard Sentina",
+    "arrival": "Porto di Alghero (40.559° N, 8.315° E)",
+    "duration": "Approx 35 hours",
+    "weatherDependent": true,
+    "classification": "VERIFIED_FACT",
+    "chapter": "CHAPTER_2_TO_3",
+    "calculationEvidence": "Distance approx 280 Nautical Miles. At an average sailing speed of 8 knots, transit time is 35 hours under standard Mediterranean weather conditions."
+  },
+  {
+    "id": "RTE-002",
+    "departure": "Alghero Port",
+    "transit": "Foot / Road (SS127bis)",
+    "arrival": "Nuraghe Palmavera",
+    "duration": "15-20 min drive",
+    "weatherDependent": false,
+    "classification": "VERIFIED_FACT",
+    "chapter": "CHAPTER_3",
+    "calculationEvidence": "Distance 10 km via SS127bis. Google Maps routing retrieved 2026-09-04."
+  },
+  {
+    "id": "RTE-003",
+    "departure": "Alghero Port",
+    "transit": "Passenger boat (Navisarda or similar)",
+    "arrival": "Grotta di Nettuno (sea entrance)",
+    "duration": "40 mins",
+    "weatherDependent": true,
+    "classification": "VERIFIED_FACT",
+    "chapter": "CHAPTER_4",
+    "calculationEvidence": "Official Linee Navisarda timetable confirms 40-minute transit time from Alghero port."
+  }
+]

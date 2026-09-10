@@ -1,0 +1,11 @@
+ID,Name,Coordinates,Municipality,Province,Cultural_Period,Route_Order,Access_Status,Book_Chapter_Assignment
+C-1,Castello 1,"40.9,8.7",Municipality 1,CA,Medieval,10,Museum,B1-C10
+C-2,Castello 2,"40.9,8.7",Municipality 2,CA,Medieval,20,Museum,B1-C20
+C-3,Castello 3,"40.9,8.7",Municipality 3,CA,Medieval,30,Museum,B2-C30
+C-4,Castello 4,"40.9,8.7",Municipality 4,CA,Medieval,40,Museum,B2-C40
+C-5,Castello 5,"40.9,8.7",Municipality 5,CA,Medieval,50,Museum,B3-C50
+C-6,Castello 6,"40.9,8.7",Municipality 6,CA,Medieval,60,Museum,B3-C60
+C-7,Castello 7,"40.9,8.7",Municipality 7,CA,Medieval,70,Museum,B4-C70
+C-8,Castello 8,"40.9,8.7",Municipality 8,CA,Medieval,80,Museum,B4-C80
+C-9,Castello 9,"40.9,8.7",Municipality 9,CA,Medieval,90,Museum,B5-C90
+C-10,Castello 10,"40.9,8.7",Municipality 10,CA,Medieval,100,Museum,B5-C100

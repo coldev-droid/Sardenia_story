@@ -1,0 +1,37 @@
+[
+  {
+    "chapter": "CHAPTER_1",
+    "status": "LOCKED",
+    "location": "El Raval -> Port Vell (Barcelona)",
+    "transit": "Departure aboard Sentina",
+    "summary": "Verified departure chronology."
+  },
+  {
+    "chapter": "CHAPTER_2",
+    "status": "LOCKED",
+    "location": "Balearic Sea",
+    "transit": "Sea Crossing aboard Sentina",
+    "summary": "Verified transit chronology."
+  },
+  {
+    "chapter": "CHAPTER_3",
+    "status": "DRAFT_PENDING_AUDIT",
+    "location": "Alghero Port -> Nuraghe Palmavera",
+    "transit": "RTE-001 (Arrival) + RTE-002 (Road)",
+    "summary": "Arrival near Alghero, securing the Sentina, and initial overland excursion to Palmavera facing Sa Mama 'e su Sole midday threat."
+  },
+  {
+    "chapter": "CHAPTER_4",
+    "status": "RESERVED",
+    "location": "Grotta di Nettuno / Capo Caccia",
+    "transit": "RTE-003 (Sea/Foot)",
+    "summary": "Reserved for deeper coastal/cave exploration."
+  },
+  {
+    "chapter": "CHAPTER_5",
+    "status": "RESERVED",
+    "location": "Argentiera -> Nurra Interior",
+    "transit": "RTE-004 (Road)",
+    "summary": "Reserved for mineral acquisition and industrial heritage integration."
+  }
+]

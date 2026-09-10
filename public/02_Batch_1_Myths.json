@@ -1,0 +1,24 @@
+[
+  {
+    "id": "MYTH-NW-001",
+    "name": "Sa Mama 'e su Sole",
+    "classification": "DOCUMENTED_FOLK_TRADITION",
+    "regionalRelevance": "Island-wide tradition, deeply acknowledged in pastoral and agricultural areas comprising Nurra.",
+    "traditionalBehavior": "Appears during the hottest hours of the day (midday). Leaves a fever mark (halentura) on children who disobey and venture outside.",
+    "fictionalTransformation": "ORIGINAL_FICTIONAL_TRANSFORMATION: The entity utilizes extreme thermal radiation to mask its approach, targeting the group when physically exposed at an archaeological site without shade.",
+    "proposedChapter": "CHAPTER_3",
+    "canonApprovalId": "CANON-APP-001",
+    "nonRepetitionCheck": "VERIFIED_UNIQUE"
+  },
+  {
+    "id": "MYTH-NW-002",
+    "name": "Ammuntadore",
+    "classification": "DOCUMENTED_FOLK_TRADITION",
+    "regionalRelevance": "Known throughout Sardinia, including the northwest. Represents sleep paralysis/night terrors.",
+    "traditionalBehavior": "A heavy, suffocating presence that sits on the chest of sleeping victims, causing nightmares and immobility.",
+    "fictionalTransformation": "ORIGINAL_FICTIONAL_TRANSFORMATION: Can manifest through corrupted amulets, trapping a group member in a shared hallucination that overlays physical terrain with false hazards.",
+    "proposedChapter": "RESERVED",
+    "canonApprovalId": "CANON-APP-002",
+    "nonRepetitionCheck": "VERIFIED_UNIQUE"
+  }
+]
