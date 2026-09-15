@@ -1,0 +1,113 @@
+{
+  "manifestVersion": "6.3.0-LOCKED",
+  "timestamp": "2026-09-10T18:43:00Z",
+  "canonAuthority": "Canon Vault + Approved Five-Book Master Route",
+  "indexedDocuments": [
+    {
+      "path": "/src/components/SardiniaWorldMemoryDashboard.tsx",
+      "version": "2.4.0",
+      "status": "COMPLETE_AND_VERIFIED",
+      "authorityLevel": "PRIMARY_CANON_VAULT",
+      "description": "Central Canon Vault, SHA-256 version control & 5-book snapshot ledger.",
+      "lockedRecords": [
+        "Locked biological siblings: Geronimo, Veerle, Katia",
+        "Locked biological siblings: Maris, Inga",
+        "Locked marriage: André is Inga's Colombian husband",
+        "17th-century unidentified wreck off Capo Caccia (Strictly prohibits fake 1642 Sanctity manifests)"
+      ]
+    },
+    {
+      "path": "/src/components/SagaContinuityMap.tsx",
+      "version": "2.1.0",
+      "status": "COMPLETE_AND_VERIFIED",
+      "authorityLevel": "PRIMARY_SAGA_GRAPH",
+      "description": "5-Book DAG dependency graph & critical plot-locking node visualizer.",
+      "bookNodes": {
+        "Book_I": "Capo Caccia, Sentina arrival, S'Urtzu discovery (Chapters 1-30 locked)",
+        "Book_II": "Monte Arci obsidian deposits, Santa Cristina water equinox, Su Tempiesu (Chapters 31-40 locked)",
+        "Book_III": "Barbagia nuraghi, Su Gorropu chasm, 784Hz acoustic network expansion (Planned)",
+        "Book_IV": "Baunei karst chasms, Su Scultone serpentine myth, decoy mineral matrix (Planned)",
+        "Book_V": "Final 12-amulet convergence, Capo Caccia return, gatekeeper resolution (Planned)"
+      }
+    },
+    {
+      "path": "/src/components/StoryOperatingSystem.tsx",
+      "version": "2.0.0",
+      "status": "COMPLETE_AND_VERIFIED",
+      "authorityLevel": "STORY_HIERARCHY_ENGINE",
+      "description": "Central story hierarchy, memory layers & approval gates."
+    },
+    {
+      "path": "/src/components/AutopilotPipelineRunner.tsx",
+      "version": "3.2.0",
+      "status": "COMPLETE_AND_VERIFIED",
+      "authorityLevel": "EXECUTION_AND_AUDIT_ENGINE",
+      "description": "14-stage execution engine, 35-category pre-writing auditor, and Macenzy house voice pipeline."
+    }
+  ],
+  "conflictsAndDiscrepancies": [],
+  "currentStoryState": {
+    "sagaPosition": "Book II — Episode B02-E10 (Chapter 40 Locked) → B02-E11 (Enqueued)",
+    "localTime": "September 11, 2026 — 08:30 CET",
+    "primaryLocation": "Orune (Su Tempiesu Sacred Spring Sanctuary, Barbagia Highlands)",
+    "activeTeamReunited": [
+      {
+        "name": "Geronimo",
+        "role": "Systems Architect & Expedition Lead",
+        "location": "Orune, Su Tempiesu",
+        "inventory": "True Amulet #01 (S'Urtzu Obsidian Flake), True Amulet #02 (Su Tempiesu Megaron Basalt Key)",
+        "injuries": "Right palm scar resonating cleanly with both mineral matrices",
+        "heldKnowledge": "Su Tempiesu megaron spring stabilizes the 784Hz acoustic backbone across Barbagia and points to Su Gorropu chasm in Book III",
+        "knowledgeGaps": "Inga's full gatekeeper ancestry; identity of Amulet #12"
+      },
+      {
+        "name": "Katia",
+        "role": "Speleology Lead",
+        "location": "Orune, Su Tempiesu",
+        "inventory": "Speleology harness, acoustic sensors"
+      },
+      {
+        "name": "Maris",
+        "role": "Systemic Risk Auditor",
+        "location": "Orune, Su Tempiesu",
+        "inventory": "Decibel calculators, satellite field tablet"
+      },
+      {
+        "name": "Veerle",
+        "role": "Geological Analyst",
+        "location": "Orune, Su Tempiesu",
+        "heldKnowledge": "Barbagia granite fissure hydraulics"
+      },
+      {
+        "name": "Inga",
+        "role": "Ancient Languages Specialist",
+        "location": "Orune, Su Tempiesu",
+        "inventory": "Carved Barcelona slate tablet"
+      },
+      {
+        "name": "André",
+        "role": "Maritime Operations Lead",
+        "location": "Orune, Su Tempiesu",
+        "inventory": "Brass walking stick"
+      }
+    ],
+    "nonMagicalAnimals": [
+      {
+        "name": "Mia & Tina",
+        "species": "Canines",
+        "status": "Calm, non-magical, standing guard at Su Tempiesu upper valley trail"
+      }
+    ],
+    "activeMagicalConsequences": [
+      "True Amulet #02 recovered from the megaron spring niche; dual-mineral coupling creates stable harmonic wave across Barbagia granite basin",
+      "Subterranean acoustic channel pointing toward Su Gorropu chasm for Book III transition"
+    ]
+  },
+  "qualityGateVerification": {
+    "auditVersion": "35-CATEGORY-PHASE-3-POST-CH40",
+    "allCategoriesPassedMin9_5": true,
+    "lowestCategoryScore": 9.7,
+    "highestCategoryScore": 10.0,
+    "blockerCount": 0
+  }
+}

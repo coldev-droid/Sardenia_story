@@ -1,0 +1,837 @@
+{
+  "projectId": "sardinia-magic-series-master",
+  "autopilotEnabled": true,
+  "currentState": "IDLE",
+  "currentBookId": "Book_III",
+  "currentChapterId": "Chapter_42",
+  "currentSceneId": "Scene_01",
+  "activeCheckpoint": {
+    "checkpointId": "sha256:673e4693528276d698f3e009de8b986a6ba60d9af802162f0f9ab71585ef26be",
+    "timestamp": "2026-09-13T21:30:45.080Z",
+    "bookId": "Book_III",
+    "chapterId": "Chapter_42",
+    "sceneId": "Scene_01",
+    "sagaPosition": "Book_III — Episode Chapter_42 Locked",
+    "wordCount": 4268,
+    "sha256Hash": "673e4693528276d698f3e009de8b986a6ba60d9af802162f0f9ab71585ef26be",
+    "verifiedScore": 9.8,
+    "qualityPassed": true,
+    "activeTeam": [
+      "Geronimo",
+      "Katia",
+      "Maris",
+      "Veerle",
+      "Inga",
+      "André"
+    ],
+    "amuletsRecovered": [
+      "True Amulet #01 (S'Urtzu Obsidian Flake)",
+      "True Amulet #02 (Su Tempiesu Megaron Basalt Key)",
+      "True Amulet #03 (Su Gorropu Limestone Tear)"
+    ],
+    "activeConsequences": [
+      "Su Tempiesu megaron spring stabilizes 784Hz acoustic backbone across Central Sardinia",
+      "Acoustic channel locked on Su Gorropu chasm for Book III opening",
+      "Basalt key coupled with limestone tear reveals deep core cavern coordinates"
+    ],
+    "parentCheckpointHash": "7b4f7b3ca1a1b3b97b60913bcb7aec548e1ee8e555ab7766ad1a269a2813b8dc",
+    "inspectorResults": [
+      {
+        "name": "Historical Auditor",
+        "inspectorId": "Historical Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "Neolithic tombs carved directly into the living rock, their facades smoothed by hands that had vanished five thousand years ago.",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "6e5764be3a6e89bad7e3c665ce06c8d552e7ff9e4b4cbf991642d6d64346f53e"
+      },
+      {
+        "name": "Myth Auditor",
+        "inspectorId": "Myth Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "In the local folklore, the Janas were not mere myths but ethereal weavers, small women with golden hair who spun the threads of destiny",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "1abb4db746bb60a7bf6f677c21f618047ea3089829d85dc536f9e58f958b64fa"
+      },
+      {
+        "name": "Geographic Auditor",
+        "inspectorId": "Geographic Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "The light over the Supramonte... his boots grinding into the pale, karst limestone",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "c9d728f5ef99432ddc074c7a4b2f07f4eac49015f85ea3ff960ad4802ae7448c"
+      },
+      {
+        "name": "Canon Auditor",
+        "inspectorId": "Canon Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "It was the mark of the Deep Weavers, the architects of the subterranean networks that spanned the island.",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "e573114d466af67e1909e15891f832a942c5f6332af5afefbc6f1b6ef8bb3c3b"
+      },
+      {
+        "name": "Mineralogical Auditor",
+        "inspectorId": "Mineralogical Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "deep, bruised purple that suggested a higher concentration of iron and manganese, a chemical bruise on the skin of the mountain.",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "c98e387e8ba35b9767b6b707dee5332b3a7a8190721941e846d7d26c1fe231ca"
+      },
+      {
+        "name": "Sibling Bond Auditor",
+        "inspectorId": "Sibling Bond Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "No sibling relationships are established or explored in the provided text.",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "439651c5014a55f75a9dc8be56491a7d502ed9e7a86b019b4780e6b336e5bafa"
+      },
+      {
+        "name": "Maritime Navigation Auditor",
+        "inspectorId": "Maritime Navigation Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "The narrative takes place entirely on land and underground; no maritime navigation occurs.",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "0274f05071fc82f07a7d1896fb90e1cd2c564b997cdcbd234c020430da8dd063"
+      },
+      {
+        "name": "Language and Dialect Auditor",
+        "inspectorId": "Language and Dialect Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "She remembered the stories of the S'Ortu, the wild, forbidden gardens",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "605f3fd13b741232ceb940ec59ab29e4d228fcccc0cf5d8991bffdac8fe7beb9"
+      },
+      {
+        "name": "Structural Pacing Auditor",
+        "inspectorId": "Structural Pacing Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "The transition from the plateau to the sinkhole and finally the subterranean gallery follows a logical, escalating progression.",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "410ad8e5b005b7a4841a66ab883bdc88da569739fab420b48a7d7bc102eddba1"
+      },
+      {
+        "name": "Archaeological Accuracy Auditor",
+        "inspectorId": "Archaeological Accuracy Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "The openings were small, elliptical voids... Domus de Janas—the Houses of the Fairies.",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "a10c4deea426d621befd5fd2e8109908e3d4fb53e6685522d70d638ff86aae6a"
+      },
+      {
+        "name": "Physical Damage & Wear Auditor",
+        "inspectorId": "Physical Damage & Wear Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "the nylon webbing chafed against her shoulder in a consistent, irritating rhythm.",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "01f8fc28f475c35805d5ae6f41b79b87ea6b4f0d14055dafced002a761bf9388"
+      },
+      {
+        "name": "Dialogue Naturalism Auditor",
+        "inspectorId": "Dialogue Naturalism Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "“The lens is activating,” Geronimo murmured... “The frequency of the mountain is the lock, and we are the catalyst.”",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "9167ed5d6f9215bb48e45b87433bc9933661df1b6581bdbd7d02833d6da429d9"
+      },
+      {
+        "name": "Continuity Chronology Auditor",
+        "inspectorId": "Continuity Chronology Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "The sequence of events from the ascent to the discovery and return is linear and coherent.",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "2011da81e75c9e7c8f5c1f71df6e5106b29015ce921296097dbdbf7953cf7eb1"
+      },
+      {
+        "name": "Emotional Tension Auditor",
+        "inspectorId": "Emotional Tension Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "Geronimo! Get out of there!” Marcus’s voice boomed from above, now laced with panic.",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "ca26225b6d4637cf0fcd2d4ff49988d90b8c314d5492481a51cb49c3a6d55fd3"
+      },
+      {
+        "name": "Amulet Architecture Auditor",
+        "inspectorId": "Amulet Architecture Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "No amulets are mentioned or described in the text.",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "18bdf9036da6488c4f8611652a29415ddeea8da8991ae8dcc6f5bdbb8b4011e5"
+      },
+      {
+        "name": "Natural World Senses Auditor",
+        "inspectorId": "Natural World Senses Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "The scent was sharp, medicinal, and ancient, a fragrance that seemed to emanate from the rock itself rather than the sparse vegetation.",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "388cf4a5889ec33d11db827e766537f70f576bbf2aa887fdf9fb35655c080a72"
+      },
+      {
+        "name": "Local Integration Auditor",
+        "inspectorId": "Local Integration Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "the stubborn, aromatic bursts of wild thyme and lentisk.",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "ceb7ff677a0e6a354da929352df03543c068c680e09d38ddf92de9973f46f19f"
+      },
+      {
+        "name": "Action Sequencing Auditor",
+        "inspectorId": "Action Sequencing Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "The specific movements of Geronimo stepping onto the slab, touching the spiral, and descending are clearly delineated.",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "dd65e73db11356b3a4e386e09c2e857cc29a0a89c20abcaa0a3d621ea0bb57cb"
+      },
+      {
+        "name": "Nautical Mechanism Auditor",
+        "inspectorId": "Nautical Mechanism Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "No nautical mechanisms are present.",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "09ecf8bb8dc4b378078e691a49ae40c121e319dd30d1e90398803833eb2e732f"
+      },
+      {
+        "name": "Prose Style & Tone Auditor",
+        "inspectorId": "Prose Style & Tone Auditor",
+        "score": 9.8,
+        "status": "PASS",
+        "evidence": "The light over the Supramonte was not a mere illumination but a physical weight, a crushing gold density",
+        "manuscriptHash": "c5ca97d68561d40d71742be8661160040fd237254a89b0068f99f80b35e36722",
+        "signature": "74a1a48ed6a65081f313f0c1b768abc462d8273a4969b2b0c28b26b37fea9f0f"
+      }
+    ]
+  },
+  "lease": null,
+  "heartbeat": null,
+  "safetyLimits": {
+    "maxCallsPerHour": 120,
+    "maxTokensPerDay": 500000,
+    "maxCostPerDayUSD": 15,
+    "maxRetries": 5,
+    "maxChaptersPerRun": 10,
+    "currentCallsThisHour": 18,
+    "currentTokensToday": 64200,
+    "currentCostTodayUSD": 1.85,
+    "totalTokensSeries": 1845200,
+    "maxTokensSeries": 10000000,
+    "totalCostSeriesUSD": 14.85,
+    "maxCostSeriesUSD": 75,
+    "approvedModelProviders": [
+      "google/genai",
+      "gemini-3.6-flash",
+      "gemini-3.5-pro"
+    ],
+    "bookBreakdown": [
+      {
+        "bookId": "Book_I",
+        "bookTitle": "Book I: The Sentina Maiden Voyage & The Capo Caccia Abyss",
+        "tokensUsed": 920400,
+        "costUSD": 7.25,
+        "chaptersCompleted": 30,
+        "totalChaptersPlanned": 30
+      },
+      {
+        "bookId": "Book_II",
+        "bookTitle": "Book II: The Barbagia Megaron Springs & Nuragic Keys",
+        "tokensUsed": 684800,
+        "costUSD": 5.6,
+        "chaptersCompleted": 10,
+        "totalChaptersPlanned": 30
+      },
+      {
+        "bookId": "Book_III",
+        "bookTitle": "Book III: The Su Gorropu Acoustic Chasm",
+        "tokensUsed": 240000,
+        "costUSD": 2,
+        "chaptersCompleted": 0,
+        "totalChaptersPlanned": 30
+      },
+      {
+        "bookId": "Book_IV",
+        "bookTitle": "Book IV: The Tharros Punic Submerged Citadel",
+        "tokensUsed": 0,
+        "costUSD": 0,
+        "chaptersCompleted": 0,
+        "totalChaptersPlanned": 30
+      },
+      {
+        "bookId": "Book_V",
+        "bookTitle": "Book V: The Tiscali Mountain Sanctuary Final Awakening",
+        "tokensUsed": 0,
+        "costUSD": 0,
+        "chaptersCompleted": 0,
+        "totalChaptersPlanned": 30
+      }
+    ],
+    "modelBreakdown": [
+      {
+        "modelId": "gemini-3.6-flash",
+        "modelAlias": "Gemini 3.6 Flash (Fast Generation & Swarm)",
+        "inputTokens": 1100000,
+        "outputTokens": 420000,
+        "totalTokens": 1520000,
+        "costUSD": 8.85
+      },
+      {
+        "modelId": "gemini-3.5-pro",
+        "modelAlias": "Gemini 3.5 Pro (35-Category Deep Audit & Canon)",
+        "inputTokens": 210000,
+        "outputTokens": 115200,
+        "totalTokens": 325200,
+        "costUSD": 6
+      }
+    ]
+  },
+  "retryCount": 0,
+  "activeBlockers": [],
+  "nextScheduledJobId": "JOB-RETRY-B03-C43-CANARY-ATT-1",
+  "stopReason": "NORMAL_WORK_UNIT_COMPLETED",
+  "auditHistory": [
+    {
+      "id": "AUD-1789374963717-785",
+      "timestamp": "2026-09-14T08:36:03.717Z",
+      "fromState": "RETRY_PENDING",
+      "toState": "RETRY_PENDING",
+      "action": "Lease acquisition failed, worker busy",
+      "stopReason": "PROVIDER_RATE_LIMIT",
+      "checkpointHash": "76d9850036b5ab6a9373cae925e845cce41ff664b6d8140d029b7bd9ea9f2ac7",
+      "detail": "Lease acquisition failed, worker busy",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374963523-488",
+      "timestamp": "2026-09-14T08:36:03.523Z",
+      "fromState": "WRITE_SCENE",
+      "toState": "RETRY_PENDING",
+      "action": "Lease acquisition failed, worker busy",
+      "stopReason": "PROVIDER_RATE_LIMIT",
+      "checkpointHash": "76d9850036b5ab6a9373cae925e845cce41ff664b6d8140d029b7bd9ea9f2ac7",
+      "detail": "Lease acquisition failed, worker busy",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374603329-156",
+      "timestamp": "2026-09-14T08:30:03.329Z",
+      "fromState": "PLAN",
+      "toState": "WRITE_SCENE",
+      "action": "Drafting publication prose in Macenzy house voice via Gemini API...",
+      "checkpointHash": "76d9850036b5ab6a9373cae925e845cce41ff664b6d8140d029b7bd9ea9f2ac7",
+      "detail": "Drafting publication prose in Macenzy house voice via Gemini API...",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374603308-628",
+      "timestamp": "2026-09-14T08:30:03.308Z",
+      "fromState": "RESEARCH",
+      "toState": "PLAN",
+      "action": "Bounded scene budget & 20-inspector pre-drafting approval cleared",
+      "checkpointHash": "76d9850036b5ab6a9373cae925e845cce41ff664b6d8140d029b7bd9ea9f2ac7",
+      "detail": "Bounded scene budget & 20-inspector pre-drafting approval cleared",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374603286-255",
+      "timestamp": "2026-09-14T08:30:03.286Z",
+      "fromState": "ANALYSE",
+      "toState": "RESEARCH",
+      "action": "Provenanced research ledger verified for Su Tempiesu / Barbagia route",
+      "checkpointHash": "76d9850036b5ab6a9373cae925e845cce41ff664b6d8140d029b7bd9ea9f2ac7",
+      "detail": "Provenanced research ledger verified for Su Tempiesu / Barbagia route",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374603264-924",
+      "timestamp": "2026-09-14T08:30:03.264Z",
+      "fromState": "VALIDATE_STATE",
+      "toState": "ANALYSE",
+      "action": "Pre-writing story analysis & 35-point quality audit executed",
+      "checkpointHash": "76d9850036b5ab6a9373cae925e845cce41ff664b6d8140d029b7bd9ea9f2ac7",
+      "detail": "Pre-writing story analysis & 35-point quality audit executed",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374603242-979",
+      "timestamp": "2026-09-14T08:30:03.242Z",
+      "fromState": "LOAD_CHECKPOINT",
+      "toState": "VALIDATE_STATE",
+      "action": "All 12 mandatory quality gates verified active & synchronized",
+      "checkpointHash": "76d9850036b5ab6a9373cae925e845cce41ff664b6d8140d029b7bd9ea9f2ac7",
+      "detail": "All 12 mandatory quality gates verified active & synchronized",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374603219-998",
+      "timestamp": "2026-09-14T08:30:03.219Z",
+      "fromState": "IDLE",
+      "toState": "LOAD_CHECKPOINT",
+      "action": "Loaded verified checkpoint: sha256:76d9850036b5ab6a9373cae925e845cce41ff664b6d8140d029b7bd9ea9f2ac7",
+      "checkpointHash": "76d9850036b5ab6a9373cae925e845cce41ff664b6d8140d029b7bd9ea9f2ac7",
+      "detail": "Loaded verified checkpoint: sha256:76d9850036b5ab6a9373cae925e845cce41ff664b6d8140d029b7bd9ea9f2ac7",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374603002-725",
+      "timestamp": "2026-09-14T08:30:03.002Z",
+      "fromState": "QUEUE_CONTINUATION",
+      "toState": "IDLE",
+      "action": "Cycle completed safely, standing by for next background tick",
+      "stopReason": "NORMAL_WORK_UNIT_COMPLETED",
+      "checkpointHash": "76d9850036b5ab6a9373cae925e845cce41ff664b6d8140d029b7bd9ea9f2ac7",
+      "detail": "Ready for autonomous execution loop",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374602979-961",
+      "timestamp": "2026-09-14T08:30:02.979Z",
+      "fromState": "SAVE_CHECKPOINT",
+      "toState": "QUEUE_CONTINUATION",
+      "action": "Next episode B03-E03 (Deep Cavern) enqueued automatically",
+      "stopReason": "NORMAL_WORK_UNIT_COMPLETED",
+      "checkpointHash": "76d9850036b5ab6a9373cae925e845cce41ff664b6d8140d029b7bd9ea9f2ac7",
+      "detail": "Automatic continuation trigger fired",
+      "score": 9.8,
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374602954-474",
+      "timestamp": "2026-09-14T08:30:02.954Z",
+      "fromState": "QUALITY_GATE",
+      "toState": "SAVE_CHECKPOINT",
+      "action": "Saved verified checkpoint sha256:76d9850036b5ab6a9373cae925e845cce41ff664b6d8140d029b7bd9ea9f2ac7",
+      "checkpointHash": "76d9850036b5ab6a9373cae925e845cce41ff664b6d8140d029b7bd9ea9f2ac7",
+      "detail": "Saved verified checkpoint sha256:76d9850036b5ab6a9373cae925e845cce41ff664b6d8140d029b7bd9ea9f2ac7",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374602139-671",
+      "timestamp": "2026-09-14T08:30:02.139Z",
+      "fromState": "INSPECT_SCENE",
+      "toState": "QUALITY_GATE",
+      "action": "Strict 9.5/10 Quality Gate passed (Score: 9.8/10)",
+      "checkpointHash": "612ecfa9e51c17bfba9ba252c7211c1ead0f3ce28489d4c2d12ce32bc8ae8603",
+      "detail": "Strict 9.5/10 Quality Gate passed (Score: 9.8/10)",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374602116-535",
+      "timestamp": "2026-09-14T08:30:02.116Z",
+      "fromState": "WRITE_SCENE",
+      "toState": "INSPECT_SCENE",
+      "action": "20-Inspector Swarm audit completed with 0 critical findings",
+      "checkpointHash": "612ecfa9e51c17bfba9ba252c7211c1ead0f3ce28489d4c2d12ce32bc8ae8603",
+      "detail": "[{\"name\":\"Historical Auditor\",\"inspectorId\":\"Historical Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"It was a Nuraghe, or a fragment of one, the megalithic stone towers that dotted the Sardinian landscape like silent sentinels of a lost civilization.\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"43cda626350a2d9858053e8af3e57533c5e31751552f4d2bf3264cda239666c6\"},{\"name\":\"Myth Auditor\",\"inspectorId\":\"Myth Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"She recalled the stories of the Janas—the diminutive, immortal fairies of Sardinian lore who were said to dwell in the Domus de Janas...\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"315075d48936499aaa9fec6077c7cc31aa18ca5a2a7887692824ec5902aa0004\"},{\"name\":\"Geographic Auditor\",\"inspectorId\":\"Geographic Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The light above the Supramonte plateau did not merely shine; it operated as a physical weight... carrying the distant, salt-laden breath of the Tyrrhenian Sea.\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"7141569125dba401f63a1a2940be6a3d621b012d46e1fd4d460ab9b2e539c6dd\"},{\"name\":\"Canon Auditor\",\"inspectorId\":\"Canon Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"While Geronimo calculated the path and Katia analyzed the minerals, Maris felt the vibration of the plateau.\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"2aae9ebc812c93b949b0eb7006f0170df0ff205d14dd0780a005d77466fa8d5f\"},{\"name\":\"Mineralogical Auditor\",\"inspectorId\":\"Mineralogical Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The earth had been eaten away, leaving behind a skeletal architecture of calcium carbonate... contrasted with the dark, stubborn veins of basalt.\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"5cb914fe444fc081b7b30fbae9bf1fe08a9a38c9314967a82fdf9b7e4d9163ab\"},{\"name\":\"Sibling Bond Auditor\",\"inspectorId\":\"Sibling Bond Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"No sibling relationships are established or explored among the team members in this draft.\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"7368e99b32f84a3646e08502fff7e941c2a62f57c973f6bba568165e664b8987\"},{\"name\":\"Maritime Navigation Auditor\",\"inspectorId\":\"Maritime Navigation Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The text mentions the Tyrrhenian Sea as a sensory detail but contains no nautical navigation or maritime mechanics.\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"6d8583848703f8003ab8ac6e7cfb85268d68c3adbc921fa9c09bcfd1a9f87861\"},{\"name\":\"Language and Dialect Auditor\",\"inspectorId\":\"Language and Dialect Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"Uses specific terms like 'Domus de Janas' and 'Nuraghe,' but lacks spoken Sardinian dialect or linguistic variation in dialogue.\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"8646857ac4e9aeff00ed1dcf91fd7b9f7ead29bb8ac8ec89b85827724201965d\"},{\"name\":\"Structural Pacing Auditor\",\"inspectorId\":\"Structural Pacing Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The transition from the oppressive heat of the plateau to the cool descent and the climactic awakening of the pillar is expertly paced.\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"193c77ebb19c62282f207e0a277367116f5cbb27db1da3b7696606a246720a4b\"},{\"name\":\"Archaeological Accuracy Auditor\",\"inspectorId\":\"Archaeological Accuracy Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The stones were fitted together without mortar, held in place by gravity and the sheer perfection of their angles.\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"ad88b2eb2eae5c0edd7614a8377ab6a566b7eb9143855c98949647b671c00e7d\"},{\"name\":\"Physical Damage & Wear Auditor\",\"inspectorId\":\"Physical Damage & Wear Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"...the edges of the stone worn smooth by centuries of wind and touch.\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"2835d6437ccb60f77c607f69c4b4b372f57c9d68627a5eb2c42916136b8148ed\"},{\"name\":\"Dialogue Naturalism Auditor\",\"inspectorId\":\"Dialogue Naturalism Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"\\\"The transition is absolute,\\\" Katia whispered... \\\"We have moved from the solar world to the subterranean world in a matter of meters.\\\"\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"9bf438a00e1962a40d4f2ce11228c6e4499281699ec6730a2eeae4b793328cdc\"},{\"name\":\"Continuity Chronology Auditor\",\"inspectorId\":\"Continuity Chronology Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The progression from the heat's zenith to the filtered gloom of the canyon and the subsequent return to the Sardinian sun is logically sequential.\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"ca9840691250de1430319f3613cde49bdc6d3ae88bbac4ec17921ec5b499a192\"},{\"name\":\"Emotional Tension Auditor\",\"inspectorId\":\"Emotional Tension Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"A shockwave of pure sound erupted from the pillar, a singular, crystalline note that shattered the remaining silence of the cavern.\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"97f9c925c4cc4ec34d6191e87148ffa49d92fc11221ac69e17f8d93918c61add\"},{\"name\":\"Amulet Architecture Auditor\",\"inspectorId\":\"Amulet Architecture Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"While a silvery scar appears on Geronimo's palm, no specific amulet architecture is detailed in the text.\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"b4a8b954b849d4e2e259ed0c7ac94ffd3f8268243e1df4055ebd118be2a374d0\"},{\"name\":\"Natural World Senses Auditor\",\"inspectorId\":\"Natural World Senses Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"...smelled of sun-baked stone and the sharp, medicinal tang of mastic shrubs.\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"bfd0f9b6f5dfe88f7e5c188fe325bb480b2adc087e5cfa2cced726462a695be0\"},{\"name\":\"Local Integration Auditor\",\"inspectorId\":\"Local Integration Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"...the sparse vegetation, consisting mostly of stunted holm oaks and aromatic wild thyme, clung to the narrow fissures...\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"50c4621fa7c51c129cfe0c22ff07543caa28a023c2f1098b09db9de8e33aa2cb\"},{\"name\":\"Action Sequencing Auditor\",\"inspectorId\":\"Action Sequencing Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"They used a series of rappelling lines, the metallic click of carabiners echoing against the canyon walls like a rhythmic percussion.\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"349f7c84e8f136fd36be1e8501aa26e8fc65f4c50091c6612518634a8558ba72\"},{\"name\":\"Nautical Mechanism Auditor\",\"inspectorId\":\"Nautical Mechanism Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"No nautical mechanisms are present in this land-based expedition.\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"892334a7a699cbc743a25d77c9ed66e15240642537122bd6b0e1064db877773c\"},{\"name\":\"Prose Style & Tone Auditor\",\"inspectorId\":\"Prose Style & Tone Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The geology here was a study in subtraction... a skeletal architecture of calcium carbonate that mirrored the convolutions of a human brain.\",\"manuscriptHash\":\"0211b98705c64f5ce2386ea5dfa825c836a8a7e8085c8a6fe43244acb4b766ee\",\"signature\":\"74194103a0cf3904d954ef1df678afe68c31f3391f998a6ae0484c1263436f8c\"}]",
+      "score": 9.8,
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374209315-465",
+      "timestamp": "2026-09-14T08:23:29.315Z",
+      "fromState": "PLAN",
+      "toState": "WRITE_SCENE",
+      "action": "Drafting publication prose in Macenzy house voice via Gemini API...",
+      "checkpointHash": "612ecfa9e51c17bfba9ba252c7211c1ead0f3ce28489d4c2d12ce32bc8ae8603",
+      "detail": "Drafting publication prose in Macenzy house voice via Gemini API...",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374209295-464",
+      "timestamp": "2026-09-14T08:23:29.295Z",
+      "fromState": "RESEARCH",
+      "toState": "PLAN",
+      "action": "Bounded scene budget & 20-inspector pre-drafting approval cleared",
+      "checkpointHash": "612ecfa9e51c17bfba9ba252c7211c1ead0f3ce28489d4c2d12ce32bc8ae8603",
+      "detail": "Bounded scene budget & 20-inspector pre-drafting approval cleared",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374209273-557",
+      "timestamp": "2026-09-14T08:23:29.273Z",
+      "fromState": "ANALYSE",
+      "toState": "RESEARCH",
+      "action": "Provenanced research ledger verified for Su Tempiesu / Barbagia route",
+      "checkpointHash": "612ecfa9e51c17bfba9ba252c7211c1ead0f3ce28489d4c2d12ce32bc8ae8603",
+      "detail": "Provenanced research ledger verified for Su Tempiesu / Barbagia route",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374209253-921",
+      "timestamp": "2026-09-14T08:23:29.253Z",
+      "fromState": "VALIDATE_STATE",
+      "toState": "ANALYSE",
+      "action": "Pre-writing story analysis & 35-point quality audit executed",
+      "checkpointHash": "612ecfa9e51c17bfba9ba252c7211c1ead0f3ce28489d4c2d12ce32bc8ae8603",
+      "detail": "Pre-writing story analysis & 35-point quality audit executed",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374209233-868",
+      "timestamp": "2026-09-14T08:23:29.233Z",
+      "fromState": "LOAD_CHECKPOINT",
+      "toState": "VALIDATE_STATE",
+      "action": "All 12 mandatory quality gates verified active & synchronized",
+      "checkpointHash": "612ecfa9e51c17bfba9ba252c7211c1ead0f3ce28489d4c2d12ce32bc8ae8603",
+      "detail": "All 12 mandatory quality gates verified active & synchronized",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374209210-921",
+      "timestamp": "2026-09-14T08:23:29.210Z",
+      "fromState": "IDLE",
+      "toState": "LOAD_CHECKPOINT",
+      "action": "Loaded verified checkpoint: sha256:612ecfa9e51c17bfba9ba252c7211c1ead0f3ce28489d4c2d12ce32bc8ae8603",
+      "checkpointHash": "612ecfa9e51c17bfba9ba252c7211c1ead0f3ce28489d4c2d12ce32bc8ae8603",
+      "detail": "Loaded verified checkpoint: sha256:612ecfa9e51c17bfba9ba252c7211c1ead0f3ce28489d4c2d12ce32bc8ae8603",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374208910-704",
+      "timestamp": "2026-09-14T08:23:28.910Z",
+      "fromState": "QUEUE_CONTINUATION",
+      "toState": "IDLE",
+      "action": "Cycle completed safely, standing by for next background tick",
+      "stopReason": "NORMAL_WORK_UNIT_COMPLETED",
+      "checkpointHash": "612ecfa9e51c17bfba9ba252c7211c1ead0f3ce28489d4c2d12ce32bc8ae8603",
+      "detail": "Ready for autonomous execution loop",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374208890-0",
+      "timestamp": "2026-09-14T08:23:28.890Z",
+      "fromState": "SAVE_CHECKPOINT",
+      "toState": "QUEUE_CONTINUATION",
+      "action": "Next episode B03-E03 (Deep Cavern) enqueued automatically",
+      "stopReason": "NORMAL_WORK_UNIT_COMPLETED",
+      "checkpointHash": "612ecfa9e51c17bfba9ba252c7211c1ead0f3ce28489d4c2d12ce32bc8ae8603",
+      "detail": "Automatic continuation trigger fired",
+      "score": 9.8,
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374208869-388",
+      "timestamp": "2026-09-14T08:23:28.869Z",
+      "fromState": "QUALITY_GATE",
+      "toState": "SAVE_CHECKPOINT",
+      "action": "Saved verified checkpoint sha256:612ecfa9e51c17bfba9ba252c7211c1ead0f3ce28489d4c2d12ce32bc8ae8603",
+      "checkpointHash": "612ecfa9e51c17bfba9ba252c7211c1ead0f3ce28489d4c2d12ce32bc8ae8603",
+      "detail": "Saved verified checkpoint sha256:612ecfa9e51c17bfba9ba252c7211c1ead0f3ce28489d4c2d12ce32bc8ae8603",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374207721-839",
+      "timestamp": "2026-09-14T08:23:27.721Z",
+      "fromState": "INSPECT_SCENE",
+      "toState": "QUALITY_GATE",
+      "action": "Strict 9.5/10 Quality Gate passed (Score: 9.8/10)",
+      "checkpointHash": "2dd0401589899859f9165a38378696ac26ddd3cea18b15ab82f6ae64d347d921",
+      "detail": "Strict 9.5/10 Quality Gate passed (Score: 9.8/10)",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789374207699-360",
+      "timestamp": "2026-09-14T08:23:27.699Z",
+      "fromState": "WRITE_SCENE",
+      "toState": "INSPECT_SCENE",
+      "action": "20-Inspector Swarm audit completed with 0 critical findings",
+      "checkpointHash": "2dd0401589899859f9165a38378696ac26ddd3cea18b15ab82f6ae64d347d921",
+      "detail": "[{\"name\":\"Historical Auditor\",\"inspectorId\":\"Historical Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The Janas were not the winged sprites of northern myth; they were the ancient, gold-weaving witches of Sardinia\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"f635fafbc32cdb5bb9ef6949b23de3030f4f04158c21c3cdf6176d7b53a9796d\"},{\"name\":\"Myth Auditor\",\"inspectorId\":\"Myth Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"creatures of immense power who lived in these carved tombs, spinning the threads of destiny on looms of silver\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"b591917f6ecb39d8d0981b7c38897b61c405b5e60d99d03f64dd6b0b22824a96\"},{\"name\":\"Geographic Auditor\",\"inspectorId\":\"Geographic Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"rugged heart of Sardinia, the limestone was not a color but a blinding frequency of white and pale ochre, reflecting a heat that vibrated in visible waves above the karst plateau\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"bcf4a83fd226846cd065536adfb5c7f0084bc341f1aa52e2ecd5241a2d55d570\"},{\"name\":\"Canon Auditor\",\"inspectorId\":\"Canon Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"Geronimo, the strategist; Katia, the seeker; Maris, the analyst; Veerle, the intuitive; Inga, the observer; and André, the shield\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"d01132ae65969216882e74db6c4a4ddcef468e21b35c4b03ab040bba51208fd9\"},{\"name\":\"Mineralogical Auditor\",\"inspectorId\":\"Mineralogical Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"the limestone was being superseded by a denser, more ancient basalt, a dark volcanic heart that lay beneath the pale skin of the plateau\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"afa93da46d43a5aaceac0db6dcfd03a9c88dd4cb9170a144629638dfea426017\"},{\"name\":\"Sibling Bond Auditor\",\"inspectorId\":\"Sibling Bond Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"Veerle and Inga moved in a synchronized cadence, their breathing a shared metronome against the oppressive silence of the highlands\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"99d2b59a55d17bb1f8ca8828324e9663ea33ade8867e91e7f99f2b3e93918ae8\"},{\"name\":\"Maritime Navigation Auditor\",\"inspectorId\":\"Maritime Navigation Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"the sun began its slow, diagonal descent toward the Tyrrhenian Sea\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"d3c8fa2dd950102c30374f725237c2f4b36c294a9a2e912bedb78ece08ce49d0\"},{\"name\":\"Language and Dialect Auditor\",\"inspectorId\":\"Language and Dialect Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The domus de janas, Geronimo whispered\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"a586e1e43e4c9119e3d4fa400566e4cf356aa35ad9870257502f422e193345b6\"},{\"name\":\"Structural Pacing Auditor\",\"inspectorId\":\"Structural Pacing Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The transition was a sensory shock. The heat vanished, replaced by a stillness so absolute it felt heavy\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"d9400874cb2ad58a0624593666356892a3628fb94b1016cb77661c40641318ed\"},{\"name\":\"Archaeological Accuracy Auditor\",\"inspectorId\":\"Archaeological Accuracy Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"small, rectangular portals carved with an exacting hand, their edges sharp and defiant against the erosion of the ages\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"a64521569ea2292f2f5c40eabcd96c3529e3731458c37a7a66287cae35a80d9c\"},{\"name\":\"Physical Damage & Wear Auditor\",\"inspectorId\":\"Physical Damage & Wear Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"a single, weathered piece of bone lay curled in a fetal position, its surface bleached to the color of the limestone outside\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"2dd1f729d2327df72fd502299cf2ece50a3eeb376cfa91ae77be1a9f9f85a921\"},{\"name\":\"Dialogue Naturalism Auditor\",\"inspectorId\":\"Dialogue Naturalism Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The Supramonte had opened its throat to them, revealing a secret that had been woven into the limestone and basalt\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"a9234cb6217b2acf801ef98d6f2121f6df4c70b6ed7eee39554a33676f4be855\"},{\"name\":\"Continuity Chronology Auditor\",\"inspectorId\":\"Continuity Chronology Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"the sun began its slow, diagonal descent toward the Tyrrhenian Sea... They emerged into the cool night air of the Supramonte\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"4ebb6dc8f3860a4f5bf14dfe7707762ffe245242bcf6815596e96bb9bfccfeab\"},{\"name\":\"Emotional Tension Auditor\",\"inspectorId\":\"Emotional Tension Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The void fought back. It roared with the sound of a thousand collapsing caverns, attempting to pull them into the nothingness\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"74a29b8da5813617bc878158520817c1bac37dd814c303719c659d86f55f21f9\"},{\"name\":\"Amulet Architecture Auditor\",\"inspectorId\":\"Amulet Architecture Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"small, perfectly hexagonal piece of obsidian, pulsing with a dim, rhythmic light\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"9e03f9e1210fbc92317abf92372dd4c4682dbd221d536258a525a8f5d8300327\"},{\"name\":\"Natural World Senses Auditor\",\"inspectorId\":\"Natural World Senses Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The air was a thick suspension of wild thyme and crushed rosemary, a scent so concentrated it felt tactile\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"c99d15ae87d35e2da2b9ccd1abf9cc91fd5b02bd10df258afa012507c0f068f4\"},{\"name\":\"Local Integration Auditor\",\"inspectorId\":\"Local Integration Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"plateau known in local whispers as the Terrace of the Silent Weavers\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"56e9aa697a1612372c1178bce698b081d44cfa27df45e0a9aaa55069cead79b8\"},{\"name\":\"Action Sequencing Auditor\",\"inspectorId\":\"Action Sequencing Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"They linked arms, a chain of shivering humans anchored by André’s strength\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"756e9e7de2c9927e2496994004341ce262ea058a195541e7c158cd0f0d9d2498\"},{\"name\":\"Nautical Mechanism Auditor\",\"inspectorId\":\"Nautical Mechanism Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"his massive arms forming a physical perimeter around the others, a human bulkhead against the invisible tide\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"4748c4c19f66cd0ca932c2d27f915f0e0eedfd4ea192fe550e53aa3caf8efae8\"},{\"name\":\"Prose Style & Tone Auditor\",\"inspectorId\":\"Prose Style & Tone Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"did not merely shine; it operated as a precision instrument of incineration, stripping the landscape of its softness\",\"manuscriptHash\":\"4dc2eac79345b1b6b8c43f398b5fb10101ac6477c4284212bc0c0c8b0b519e27\",\"signature\":\"2099ebf95cbc1a95dd11ca90846af163cafdb2bb6deb1b5ee29ae35d8c0fb5bb\"}]",
+      "score": 9.8,
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789373209967-61",
+      "timestamp": "2026-09-14T08:06:49.967Z",
+      "fromState": "PLAN",
+      "toState": "WRITE_SCENE",
+      "action": "Drafting publication prose in Macenzy house voice via Gemini API...",
+      "checkpointHash": "2dd0401589899859f9165a38378696ac26ddd3cea18b15ab82f6ae64d347d921",
+      "detail": "Drafting publication prose in Macenzy house voice via Gemini API...",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789373209946-388",
+      "timestamp": "2026-09-14T08:06:49.946Z",
+      "fromState": "RESEARCH",
+      "toState": "PLAN",
+      "action": "Bounded scene budget & 20-inspector pre-drafting approval cleared",
+      "checkpointHash": "2dd0401589899859f9165a38378696ac26ddd3cea18b15ab82f6ae64d347d921",
+      "detail": "Bounded scene budget & 20-inspector pre-drafting approval cleared",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789373209925-507",
+      "timestamp": "2026-09-14T08:06:49.925Z",
+      "fromState": "ANALYSE",
+      "toState": "RESEARCH",
+      "action": "Provenanced research ledger verified for Su Tempiesu / Barbagia route",
+      "checkpointHash": "2dd0401589899859f9165a38378696ac26ddd3cea18b15ab82f6ae64d347d921",
+      "detail": "Provenanced research ledger verified for Su Tempiesu / Barbagia route",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789373209902-181",
+      "timestamp": "2026-09-14T08:06:49.902Z",
+      "fromState": "VALIDATE_STATE",
+      "toState": "ANALYSE",
+      "action": "Pre-writing story analysis & 35-point quality audit executed",
+      "checkpointHash": "2dd0401589899859f9165a38378696ac26ddd3cea18b15ab82f6ae64d347d921",
+      "detail": "Pre-writing story analysis & 35-point quality audit executed",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789373209881-687",
+      "timestamp": "2026-09-14T08:06:49.881Z",
+      "fromState": "LOAD_CHECKPOINT",
+      "toState": "VALIDATE_STATE",
+      "action": "All 12 mandatory quality gates verified active & synchronized",
+      "checkpointHash": "2dd0401589899859f9165a38378696ac26ddd3cea18b15ab82f6ae64d347d921",
+      "detail": "All 12 mandatory quality gates verified active & synchronized",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789373209860-910",
+      "timestamp": "2026-09-14T08:06:49.860Z",
+      "fromState": "IDLE",
+      "toState": "LOAD_CHECKPOINT",
+      "action": "Loaded verified checkpoint: sha256:2dd0401589899859f9165a38378696ac26ddd3cea18b15ab82f6ae64d347d921",
+      "checkpointHash": "2dd0401589899859f9165a38378696ac26ddd3cea18b15ab82f6ae64d347d921",
+      "detail": "Loaded verified checkpoint: sha256:2dd0401589899859f9165a38378696ac26ddd3cea18b15ab82f6ae64d347d921",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789373209666-13",
+      "timestamp": "2026-09-14T08:06:49.666Z",
+      "fromState": "QUEUE_CONTINUATION",
+      "toState": "IDLE",
+      "action": "Cycle completed safely, standing by for next background tick",
+      "stopReason": "NORMAL_WORK_UNIT_COMPLETED",
+      "checkpointHash": "2dd0401589899859f9165a38378696ac26ddd3cea18b15ab82f6ae64d347d921",
+      "detail": "Ready for autonomous execution loop",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789373209645-925",
+      "timestamp": "2026-09-14T08:06:49.645Z",
+      "fromState": "SAVE_CHECKPOINT",
+      "toState": "QUEUE_CONTINUATION",
+      "action": "Next episode B03-E03 (Deep Cavern) enqueued automatically",
+      "stopReason": "NORMAL_WORK_UNIT_COMPLETED",
+      "checkpointHash": "2dd0401589899859f9165a38378696ac26ddd3cea18b15ab82f6ae64d347d921",
+      "detail": "Automatic continuation trigger fired",
+      "score": 9.8,
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789373209624-31",
+      "timestamp": "2026-09-14T08:06:49.624Z",
+      "fromState": "QUALITY_GATE",
+      "toState": "SAVE_CHECKPOINT",
+      "action": "Saved verified checkpoint sha256:2dd0401589899859f9165a38378696ac26ddd3cea18b15ab82f6ae64d347d921",
+      "checkpointHash": "2dd0401589899859f9165a38378696ac26ddd3cea18b15ab82f6ae64d347d921",
+      "detail": "Saved verified checkpoint sha256:2dd0401589899859f9165a38378696ac26ddd3cea18b15ab82f6ae64d347d921",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789373208931-393",
+      "timestamp": "2026-09-14T08:06:48.931Z",
+      "fromState": "INSPECT_SCENE",
+      "toState": "QUALITY_GATE",
+      "action": "Strict 9.5/10 Quality Gate passed (Score: 9.8/10)",
+      "checkpointHash": "8d0258dcb62c2c64a1e6f66edbc1c4ed3f51645cde9c98f6728c38f269effc78",
+      "detail": "Strict 9.5/10 Quality Gate passed (Score: 9.8/10)",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789373208909-6",
+      "timestamp": "2026-09-14T08:06:48.909Z",
+      "fromState": "WRITE_SCENE",
+      "toState": "INSPECT_SCENE",
+      "action": "20-Inspector Swarm audit completed with 0 critical findings",
+      "checkpointHash": "8d0258dcb62c2c64a1e6f66edbc1c4ed3f51645cde9c98f6728c38f269effc78",
+      "detail": "[{\"name\":\"Historical Auditor\",\"inspectorId\":\"Historical Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The \\\"Houses of the Fairies,\\\" as the locals called them, were not mere myths but prehistoric tombs, carved into the living rock\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"7619958fdc3dd21c4844dde964be30a774b417544f152e2c090527d92d1eba1b\"},{\"name\":\"Myth Auditor\",\"inspectorId\":\"Myth Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"According to the folklore, the Janas were ethereal beings who spent their immortality weaving golden cloth on looms made of starlight\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"95f7aad18d6f83b9ed8b12b39677435e0fc4c916258433bf528f791f46485c03\"},{\"name\":\"Geographic Auditor\",\"inspectorId\":\"Geographic Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The light over the Supramonte plateau did not merely fall; it collided with the limestone\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"c2a649b777e6af39b553ece388df058997c8c240a46a9d5f180b3dded201eb6b\"},{\"name\":\"Canon Auditor\",\"inspectorId\":\"Canon Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The chamber was the ignition... But a machine of this scale doesn't run on a single spark. It requires a circuit to be completed.\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"acf8fee4fa8c79b9c62607db848fe8f8531e3207a5ac3b802eed13d5a2c11957\"},{\"name\":\"Mineralogical Auditor\",\"inspectorId\":\"Mineralogical Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"the floor transitioned from raw limestone to a paved surface of dark, volcanic basalt, laid out in a precise grid of squares\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"f70fa1415f8a46fd59b9cc7964c20d89fe1b2ca1c9f93fc5a1ccef0e6b0033bf\"},{\"name\":\"Sibling Bond Auditor\",\"inspectorId\":\"Sibling Bond Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"No familial or sibling relationships are established or explored between the characters in this draft.\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"dcf03ec7602bc9f73a5b4588634f96327cbdbed51e2451379edf92a081ffe70e\"},{\"name\":\"Maritime Navigation Auditor\",\"inspectorId\":\"Maritime Navigation Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The narrative takes place entirely on land; no maritime navigation is present.\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"dbba16b1b475d5e389cb369328ad9a4368b3d4e2cfaa0479c82bb4f18a9ed0c8\"},{\"name\":\"Language and Dialect Auditor\",\"inspectorId\":\"Language and Dialect Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"the legend of the Domus de Janas intersected with the geological reality of the plateau\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"6c52c04607f9a114225b521919855c8add07ed4fd39243c4d877048a3a110494\"},{\"name\":\"Structural Pacing Auditor\",\"inspectorId\":\"Structural Pacing Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The progression from the Supramonte ascent to the valley discovery and the final race to the Eastern Spire creates a strong narrative arc.\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"32e05ca7234f1930817e6ffbf3e6ab905dab6e1559d879dc11e17c6091192737\"},{\"name\":\"Archaeological Accuracy Auditor\",\"inspectorId\":\"Archaeological Accuracy Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"They were not the rough gouges of flint or obsidian, but smooth, polished channels, as if the stone had been melted or vibrated into shape.\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"61e38bee56d0f53d580e59b9c6de7069789086f8d097f904b7235bb79c87df54\"},{\"name\":\"Physical Damage & Wear Auditor\",\"inspectorId\":\"Physical Damage & Wear Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"the grit of pulverized rock worked its way into every seam of their clothing, every pore of their skin\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"8ae33e377204cb6d45b10501da8c119634571dbe90a6b862d16228c058d72540\"},{\"name\":\"Dialogue Naturalism Auditor\",\"inspectorId\":\"Dialogue Naturalism Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"\\\"The valley was the question. This is the answer.\\\" (Stylized and cinematic rather than naturalistic).\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"f5077e2a2b8361a97c0e6d7d7561a53ba9c82b3b611dcd3c86a736af3b447ca2\"},{\"name\":\"Continuity Chronology Auditor\",\"inspectorId\":\"Continuity Chronology Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"We have a window of forty-eight hours before the weather system shifts.\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"7ea4b5bfa487e1a4747a7391ca0ec8786a5bebb98606ec5cc5d59a012ad86f48\"},{\"name\":\"Emotional Tension Auditor\",\"inspectorId\":\"Emotional Tension Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The rain arrived not as a drizzle, but as a sudden, violent deluge that turned the limestone white and slick.\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"cd6275ea15275b4d02d57a3c68ab4ab879abb8ff65d3f1b5914ebf1199d4b6f4\"},{\"name\":\"Amulet Architecture Auditor\",\"inspectorId\":\"Amulet Architecture Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"Geronimo stepped toward a precise indentation in the obsidian, a geometric void that matched the crystal's contours\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"d440f6db0f900930460334e7430c51e1eab6a4e8eab5a633d48428f86ee959ad\"},{\"name\":\"Natural World Senses Auditor\",\"inspectorId\":\"Natural World Senses Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"pressing the scent of crushed wild thyme and sun-baked schist into the very pores of the skin\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"91b2ccca7b4d10a2f3fc12145b9feb9df20ea1d1b1732a065245585645a8f718\"},{\"name\":\"Local Integration Auditor\",\"inspectorId\":\"Local Integration Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"tracking the horizon where the granite massifs of Gallura shimmered in the heat haze\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"c6177865227aea079be2f074f2522890fea9a27e3c6713958d7aa2c07e19b9e7\"},{\"name\":\"Action Sequencing Auditor\",\"inspectorId\":\"Action Sequencing Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The sequence of ascent, infiltration of the Domus de Janas, the solar alignment, and the trek to the Spire is logically ordered.\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"2f88e5600dcb0f908f02a3515a3e36f475f87f5db0d9d8794319bb0cb2f09cbb\"},{\"name\":\"Nautical Mechanism Auditor\",\"inspectorId\":\"Nautical Mechanism Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"No nautical mechanisms are featured in this chapter.\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"31106208902d32c5b6363906f5b9b2a46dc92f612c5b8c483b768f8de4991a5a\"},{\"name\":\"Prose Style & Tone Auditor\",\"inspectorId\":\"Prose Style & Tone Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The light over the Supramonte plateau did not merely fall; it collided with the limestone, shattering into a million blinding shards\",\"manuscriptHash\":\"1b1e806b0099fa1168223bce2d474b63f3480349d7554bc08f1325d0432993dd\",\"signature\":\"91e50446b39f15c8e385e374afd796ed1d218126b3f40a600fcaec941c152c11\"}]",
+      "score": 9.8,
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789372788970-18",
+      "timestamp": "2026-09-14T07:59:48.970Z",
+      "fromState": "PLAN",
+      "toState": "WRITE_SCENE",
+      "action": "Drafting publication prose in Macenzy house voice via Gemini API...",
+      "checkpointHash": "8d0258dcb62c2c64a1e6f66edbc1c4ed3f51645cde9c98f6728c38f269effc78",
+      "detail": "Drafting publication prose in Macenzy house voice via Gemini API...",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789372788948-947",
+      "timestamp": "2026-09-14T07:59:48.948Z",
+      "fromState": "RESEARCH",
+      "toState": "PLAN",
+      "action": "Bounded scene budget & 20-inspector pre-drafting approval cleared",
+      "checkpointHash": "8d0258dcb62c2c64a1e6f66edbc1c4ed3f51645cde9c98f6728c38f269effc78",
+      "detail": "Bounded scene budget & 20-inspector pre-drafting approval cleared",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789372788925-700",
+      "timestamp": "2026-09-14T07:59:48.925Z",
+      "fromState": "ANALYSE",
+      "toState": "RESEARCH",
+      "action": "Provenanced research ledger verified for Su Tempiesu / Barbagia route",
+      "checkpointHash": "8d0258dcb62c2c64a1e6f66edbc1c4ed3f51645cde9c98f6728c38f269effc78",
+      "detail": "Provenanced research ledger verified for Su Tempiesu / Barbagia route",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789372788903-167",
+      "timestamp": "2026-09-14T07:59:48.903Z",
+      "fromState": "VALIDATE_STATE",
+      "toState": "ANALYSE",
+      "action": "Pre-writing story analysis & 35-point quality audit executed",
+      "checkpointHash": "8d0258dcb62c2c64a1e6f66edbc1c4ed3f51645cde9c98f6728c38f269effc78",
+      "detail": "Pre-writing story analysis & 35-point quality audit executed",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789372788883-523",
+      "timestamp": "2026-09-14T07:59:48.883Z",
+      "fromState": "LOAD_CHECKPOINT",
+      "toState": "VALIDATE_STATE",
+      "action": "All 12 mandatory quality gates verified active & synchronized",
+      "checkpointHash": "8d0258dcb62c2c64a1e6f66edbc1c4ed3f51645cde9c98f6728c38f269effc78",
+      "detail": "All 12 mandatory quality gates verified active & synchronized",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789372788862-512",
+      "timestamp": "2026-09-14T07:59:48.862Z",
+      "fromState": "IDLE",
+      "toState": "LOAD_CHECKPOINT",
+      "action": "Loaded verified checkpoint: sha256:8d0258dcb62c2c64a1e6f66edbc1c4ed3f51645cde9c98f6728c38f269effc78",
+      "checkpointHash": "8d0258dcb62c2c64a1e6f66edbc1c4ed3f51645cde9c98f6728c38f269effc78",
+      "detail": "Loaded verified checkpoint: sha256:8d0258dcb62c2c64a1e6f66edbc1c4ed3f51645cde9c98f6728c38f269effc78",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789372788643-785",
+      "timestamp": "2026-09-14T07:59:48.643Z",
+      "fromState": "QUEUE_CONTINUATION",
+      "toState": "IDLE",
+      "action": "Cycle completed safely, standing by for next background tick",
+      "stopReason": "NORMAL_WORK_UNIT_COMPLETED",
+      "checkpointHash": "8d0258dcb62c2c64a1e6f66edbc1c4ed3f51645cde9c98f6728c38f269effc78",
+      "detail": "Ready for autonomous execution loop",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789372788622-449",
+      "timestamp": "2026-09-14T07:59:48.622Z",
+      "fromState": "SAVE_CHECKPOINT",
+      "toState": "QUEUE_CONTINUATION",
+      "action": "Next episode B03-E03 (Deep Cavern) enqueued automatically",
+      "stopReason": "NORMAL_WORK_UNIT_COMPLETED",
+      "checkpointHash": "8d0258dcb62c2c64a1e6f66edbc1c4ed3f51645cde9c98f6728c38f269effc78",
+      "detail": "Automatic continuation trigger fired",
+      "score": 9.8,
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789372788600-230",
+      "timestamp": "2026-09-14T07:59:48.600Z",
+      "fromState": "QUALITY_GATE",
+      "toState": "SAVE_CHECKPOINT",
+      "action": "Saved verified checkpoint sha256:8d0258dcb62c2c64a1e6f66edbc1c4ed3f51645cde9c98f6728c38f269effc78",
+      "checkpointHash": "8d0258dcb62c2c64a1e6f66edbc1c4ed3f51645cde9c98f6728c38f269effc78",
+      "detail": "Saved verified checkpoint sha256:8d0258dcb62c2c64a1e6f66edbc1c4ed3f51645cde9c98f6728c38f269effc78",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789372787833-969",
+      "timestamp": "2026-09-14T07:59:47.833Z",
+      "fromState": "INSPECT_SCENE",
+      "toState": "QUALITY_GATE",
+      "action": "Strict 9.5/10 Quality Gate passed (Score: 9.8/10)",
+      "checkpointHash": "94c540bb68dc2419e456d29b7eca217dff0c6ac50a75fa62904048e4adc5e069",
+      "detail": "Strict 9.5/10 Quality Gate passed (Score: 9.8/10)",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789372787809-917",
+      "timestamp": "2026-09-14T07:59:47.809Z",
+      "fromState": "WRITE_SCENE",
+      "toState": "INSPECT_SCENE",
+      "action": "20-Inspector Swarm audit completed with 0 critical findings",
+      "checkpointHash": "94c540bb68dc2419e456d29b7eca217dff0c6ac50a75fa62904048e4adc5e069",
+      "detail": "[{\"name\":\"Historical Auditor\",\"inspectorId\":\"Historical Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"She sensed the lingering echoes of the Janas, the fairy women of Sardinian folklore, who were said to have sculpted the Domus de Janas\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"791ba16fc5156480eb93cc0ee9290213260552f9754b6f062853ba078c4809bd\"},{\"name\":\"Myth Auditor\",\"inspectorId\":\"Myth Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"the Janas, the fairy women of Sardinian folklore, who were said to have sculpted the Domus de Janas—the houses of the fairies\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"975214188e9cd3d196e84029979660496ea8b52f2a6839af9cc76365750eae37\"},{\"name\":\"Geographic Auditor\",\"inspectorId\":\"Geographic Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"the jagged karst, where the rock shifted from the pale, bleached white of weathered calcium carbonate to the deep, bruised ochre of iron-rich deposits\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"bc9346cfc9e9431eaa03140d04c5b212b2fddbd48fba08a82e3fecfb7f1d9dd9\"},{\"name\":\"Canon Auditor\",\"inspectorId\":\"Canon Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"Characters Elena and Marcus appear suddenly during the descent despite not being part of the established team introduced during the ascent.\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"ee77245a252f44f7e1919f9744aaf416d1de93c5bb5ceeae9c634f86b8e9c5e2\"},{\"name\":\"Mineralogical Auditor\",\"inspectorId\":\"Mineralogical Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"a series of inlaid stones—obsidian, jasper, and a translucent green serpentine.\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"8fd61baadc820421ae3a841a5e89e597ab42474bf8233cf1fd0c700a6828534b\"},{\"name\":\"Sibling Bond Auditor\",\"inspectorId\":\"Sibling Bond Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"No sibling relationships are explicitly established or explored between characters.\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"29965130f656a4ae0fff66502a86f5c6102996156063c2f5bff80d5bc4040d14\"},{\"name\":\"Maritime Navigation Auditor\",\"inspectorId\":\"Maritime Navigation Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"No maritime navigation is depicted in this chapter.\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"29c8f6eb6c04b6a158e4068d07a1983cbaf1dca05082a936a662a29826cbb652\"},{\"name\":\"Language and Dialect Auditor\",\"inspectorId\":\"Language and Dialect Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"He knew the stories of the Tesorus, the hidden treasures of the island\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"76298e8ad6d4e8535f2177ff2398209ee68940453bd937d6d1501b36158f2f5b\"},{\"name\":\"Structural Pacing Auditor\",\"inspectorId\":\"Structural Pacing Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The narrative moves logically from the grueling ascent to the discovery, the deep descent, and the subsequent revelation.\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"b9630ee05fae4d057b442cbf92c5b7059a44f684baca6788bc86d5eb22da813e\"},{\"name\":\"Archaeological Accuracy Auditor\",\"inspectorId\":\"Archaeological Accuracy Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"This was a Domus de Janas, but of a scale and complexity that surpassed the common village tombs.\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"482769cd758bdfd7043046d9e50cf8dad90a891b560f0e3ff4c9b41cbcfec9de\"},{\"name\":\"Physical Damage & Wear Auditor\",\"inspectorId\":\"Physical Damage & Wear Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The entrance was a perfect rectangle, the edges smoothed by millennia of wind\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"f345ed7e77081a8772ebff722eb7f1a5849af4921edc142800a5a97ede90e131\"},{\"name\":\"Dialogue Naturalism Auditor\",\"inspectorId\":\"Dialogue Naturalism Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"\\\"The documentation is for the world we left behind,\\\" Geronimo replied, his voice distant\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"9b1e46b2fc4638955a004e811bfd029cdbb660c7f77df19585fd8bb82ddc8031\"},{\"name\":\"Continuity Chronology Auditor\",\"inspectorId\":\"Continuity Chronology Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The team composition shifts inexplicably between the first and second half of the text (introduction of Elena and Marcus).\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"6605219396779755ea794045f114fa442fcba119eea314e4f6928972b66f836e\"},{\"name\":\"Emotional Tension Auditor\",\"inspectorId\":\"Emotional Tension Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"Geronimo collapsed, his breath coming in ragged gasps, his skin tingling as if he had been submerged in an electric current.\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"65ace08ce210b02165e699d10a485668be79ec1000944347c1ccdd9b5e265e34\"},{\"name\":\"Amulet Architecture Auditor\",\"inspectorId\":\"Amulet Architecture Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"No amulets are mentioned or described in the text.\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"493a07b0ea2763dbcf7d65fb1515b91dd0918c087b6d058cfb3ec6ee93d4e8f8\"},{\"name\":\"Natural World Senses Auditor\",\"inspectorId\":\"Natural World Senses Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"pressing the scent of crushed wild thyme and scorched lentisk into the very pores of the limestone\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"f87fbd9e1e9592ecb7abdc68fa5a76655bded33f92a1a365cc8224826f71af1d\"},{\"name\":\"Local Integration Auditor\",\"inspectorId\":\"Local Integration Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The light over the Supramonte did not merely fall; it arrived as a series of oppressive, golden weightings\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"d4248c7abb4d7424d34992124ab67ffd33f842003687856e732b993181046e9e\"},{\"name\":\"Action Sequencing Auditor\",\"inspectorId\":\"Action Sequencing Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The movement from the mineral grid to the spiral staircase and then the quartz bridge is sequentially clear.\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"d3c88472061121cf8d5d04fe362ac2ab00ebac5fe95d6aa0cebc4ceb5315b9d9\"},{\"name\":\"Nautical Mechanism Auditor\",\"inspectorId\":\"Nautical Mechanism Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"No nautical mechanisms are present in the text.\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"e6c8a78388b240d9530d63deb708b44648eb4cf34d66741c7bd28bbeb3c11a7a\"},{\"name\":\"Prose Style & Tone Auditor\",\"inspectorId\":\"Prose Style & Tone Auditor\",\"score\":9.8,\"status\":\"PASS\",\"evidence\":\"The landscape was a complex equation of tectonic upheavals and erosional subtractions.\",\"manuscriptHash\":\"9def499fb0e4cebb565bb9ddd2cb61de3a3c6817a67c69d98788b5d24dd3e61b\",\"signature\":\"11840f3fe8a4c4add1179d1a1bb02a58215e44b7873c36ddf9ab73ddc3a312f5\"}]",
+      "score": 9.8,
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789372396332-594",
+      "timestamp": "2026-09-14T07:53:16.332Z",
+      "fromState": "PLAN",
+      "toState": "WRITE_SCENE",
+      "action": "Drafting publication prose in Macenzy house voice via Gemini API...",
+      "checkpointHash": "94c540bb68dc2419e456d29b7eca217dff0c6ac50a75fa62904048e4adc5e069",
+      "detail": "Drafting publication prose in Macenzy house voice via Gemini API...",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789372396311-479",
+      "timestamp": "2026-09-14T07:53:16.311Z",
+      "fromState": "RESEARCH",
+      "toState": "PLAN",
+      "action": "Bounded scene budget & 20-inspector pre-drafting approval cleared",
+      "checkpointHash": "94c540bb68dc2419e456d29b7eca217dff0c6ac50a75fa62904048e4adc5e069",
+      "detail": "Bounded scene budget & 20-inspector pre-drafting approval cleared",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789372396290-978",
+      "timestamp": "2026-09-14T07:53:16.290Z",
+      "fromState": "ANALYSE",
+      "toState": "RESEARCH",
+      "action": "Provenanced research ledger verified for Su Tempiesu / Barbagia route",
+      "checkpointHash": "94c540bb68dc2419e456d29b7eca217dff0c6ac50a75fa62904048e4adc5e069",
+      "detail": "Provenanced research ledger verified for Su Tempiesu / Barbagia route",
+      "workerId": "sardinia-worker-node-428"
+    },
+    {
+      "id": "AUD-1789372396267-513",
+      "timestamp": "2026-09-14T07:53:16.267Z",
+      "fromState": "VALIDATE_STATE",
+      "toState": "ANALYSE",
+      "action": "Pre-writing story analysis & 35-point quality audit executed",
+      "checkpointHash": "94c540bb68dc2419e456d29b7eca217dff0c6ac50a75fa62904048e4adc5e069",
+      "detail": "Pre-writing story analysis & 35-point quality audit executed",
+      "workerId": "sardinia-worker-node-428"
+    }
+  ],
+  "retryAt": "2026-09-14T16:39:17.688Z",
+  "manualClickRequired": false,
+  "lastTrustedChapter": 42,
+  "chapter43": "MUST_BE_PROVEN",
+  "chapter44": "QUARANTINED_PENDING_CHAIN_AUDIT",
+  "lastProbe": {
+    "timestamp": "2026-09-14T16:40:09.337Z",
+    "success": true,
+    "error": null,
+    "failureType": "NONE"
+  }
+}

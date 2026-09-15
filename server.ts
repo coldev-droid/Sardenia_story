@@ -5,6 +5,7 @@ import crypto from "crypto";
 import fs from "fs";
 import AdmZip from "adm-zip";
 import { registerCanonicalRoutes, getCanonicalCorpusReport } from "./server/canonicalCorpus";
+import { registerWatchdogRoutes } from "./server/autopilotWatchdog";
 const runSentinelTestSuite = () => ({ totals: { total: 26, passed: 26, failed: 0 }, results: [] });
 
 const app = express();
@@ -820,8 +821,6 @@ const resolvedContinuityThreats = [
 
 
 app.get("/api/orchestrator/scan", (req, res) => {
-  const fs = require('fs');
-  const path = require('path');
   const manuscriptDir = path.join(process.cwd(), 'canonical-source/manuscript');
   
   const requiredFiles = [
@@ -1032,6 +1031,9 @@ app.get("/api/download-chapters", (req, res) => {
     res.status(500).json({ error: err.message });
   }
 });
+
+registerCanonicalRoutes(app);
+registerWatchdogRoutes(app);
 
 async function startServer() {
   if (process.env.NODE_ENV !== "production") {

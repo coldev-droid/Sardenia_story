@@ -1,0 +1,32 @@
+[
+  {
+    "jobId": "JOB-27fbf3bd",
+    "projectId": "sardinia-magic-series-master",
+    "bookId": "Book_III",
+    "chapterId": "Chapter_43",
+    "sceneId": "Scene_01",
+    "checkpointId": "sha256:049959c6fc78cb05f14e634027289053f77b5440d4ac27652511c8e731c7cf15",
+    "pipelineAction": "FAILED_CHRONOLOGY_CHECK",
+    "generationVersion": 1,
+    "idempotencyKey": "d4d0ff507f19746df3710424ce5bfe2290942d49f8a5cc276ab9e4ef757ee97b",
+    "status": "FAILED",
+    "scheduledFor": "2026-09-13T12:32:50.479Z",
+    "retryCount": 0,
+    "createdAt": "2026-09-13T12:32:50.479Z"
+  },
+  {
+    "jobId": "JOB-dd41f54b",
+    "projectId": "sardinia-magic-series-master",
+    "bookId": "Book_III",
+    "chapterId": "Chapter_43",
+    "sceneId": "Scene_01",
+    "checkpointId": "sha256:2163ef8d85bd45cce94e8d35e0e78c41cdcf205cf760b18d3d5028dcfdda462e",
+    "pipelineAction": "DRAFT_B03_E03_DEEP_CAVERN_COORDINATES",
+    "generationVersion": 1,
+    "idempotencyKey": "3027993df0dc25b86a45f5289df27fd36fa611abb776c92778ca419ed8424eb1",
+    "status": "PROCESSING",
+    "scheduledFor": "2026-09-13T15:10:02.709Z",
+    "retryCount": 0,
+    "createdAt": "2026-09-13T15:10:01.709Z"
+  }
+]

@@ -17,6 +17,20 @@ import { ContinuityGateways } from './components/ContinuityGateways';
 import { DataIntegrityGauge } from './components/DataIntegrityGauge';
 import { RagMemoryEngine } from './components/RagMemoryEngine';
 import { ResolvedThreatsLog } from './components/ResolvedThreatsLog';
+import { WorldArchetypeEngine } from './components/WorldArchetypeEngine';
+import { NarrativePacingSimulator } from './components/NarrativePacingSimulator';
+import { CoWriterSwarmSandbox } from './components/CoWriterSwarmSandbox';
+import { NarrativeMotifTracker } from './components/NarrativeMotifTracker';
+import { SardiniaArcanaLivingEngine } from './components/SardiniaArcanaLivingEngine';
+import { SardiniaWorldMemoryDashboard } from './components/SardiniaWorldMemoryDashboard';
+import { StoryOperatingSystem } from './components/StoryOperatingSystem';
+import { SagaContinuityMap } from './components/SagaContinuityMap';
+import { AdvancedSystemUpgradeHub } from './components/AdvancedSystemUpgradeHub';
+import { GeronimoSpotlight } from './components/GeronimoSpotlight';
+import { ContinuitySandbox } from './components/ContinuitySandbox';
+import { ApprovedMythPortraitStudio } from './components/ApprovedMythPortraitStudio';
+import { AutopilotPipelineRunner } from './components/AutopilotPipelineRunner';
+import { AutopilotWatchdog } from './components/AutopilotWatchdog';
 
 
 import { ResponsiveContainer, BarChart, Bar, XAxis, YAxis, Tooltip, Legend, CartesianGrid, Cell } from 'recharts';
@@ -49,7 +63,7 @@ export default function App() {
   const [receipt, setReceipt] = useState<any | null>(null);
   const [promoteResult, setPromoteResult] = useState<any | null>(null);
   const [approving, setApproving] = useState(false);
-  const [activeTab, setActiveTab] = useState<'factory' | 'delta' | 'sentinel' | 'inspectors' | 'prose' | 'audit' | 'evidence' | 'myths' | 'orchestrator' | 'atlas' | 'relationships' | 'minerals' | 'timelines' | 'heritage' | 'gateways' | 'rag'>('factory');
+  const [activeTab, setActiveTab] = useState<'factory' | 'delta' | 'sentinel' | 'inspectors' | 'prose' | 'audit' | 'evidence' | 'myths' | 'orchestrator' | 'atlas' | 'relationships' | 'minerals' | 'timelines' | 'heritage' | 'gateways' | 'rag' | 'archetype' | 'pacing' | 'sandbox' | 'motif' | 'arcana' | 'memory' | 'os' | 'sagamap' | 'upgrades' | 'geronimo' | 'continuitysandbox' | 'mythstudio' | 'autopilot' | 'watchdog'>('watchdog');
 
   // State comparison tool state
   const [fromChapter, setFromChapter] = useState('B01_C30');
@@ -244,7 +258,21 @@ export default function App() {
             </button>
 
 
+            <button onClick={() => setActiveTab('watchdog')} className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${activeTab === 'watchdog' ? 'bg-amber-600 text-stone-100' : 'text-amber-400 hover:text-amber-300'}`}>Autopilot Watchdog</button>
+            <button onClick={() => setActiveTab('autopilot')} className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${activeTab === 'autopilot' ? 'bg-emerald-600 text-stone-100' : 'text-emerald-400 hover:text-emerald-300'}`}>Autopilot Pipeline</button>
             <button onClick={() => setActiveTab('orchestrator')} className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${activeTab === 'orchestrator' ? 'bg-emerald-600 text-stone-100' : 'text-emerald-500/70 hover:text-emerald-400'}`}>Swarm Orchestrator</button>
+            <button onClick={() => setActiveTab('continuitysandbox')} className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${activeTab === 'continuitysandbox' ? 'bg-amber-600 text-stone-100' : 'text-stone-400 hover:text-stone-200'}`}>Continuity Sandbox</button>
+            <button onClick={() => setActiveTab('mythstudio')} className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${activeTab === 'mythstudio' ? 'bg-purple-600 text-stone-100' : 'text-purple-400/80 hover:text-purple-300'}`}>Myth Portrait Studio</button>
+            <button onClick={() => setActiveTab('geronimo')} className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${activeTab === 'geronimo' ? 'bg-amber-600 text-stone-100' : 'text-stone-400 hover:text-stone-200'}`}>Geronimo Dossier</button>
+            <button onClick={() => setActiveTab('upgrades')} className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${activeTab === 'upgrades' ? 'bg-emerald-600 text-stone-100' : 'text-emerald-400/80 hover:text-emerald-300'}`}>System Upgrades Hub</button>
+            <button onClick={() => setActiveTab('os')} className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${activeTab === 'os' ? 'bg-amber-600 text-stone-100' : 'text-stone-400 hover:text-stone-200'}`}>Story Operating System</button>
+            <button onClick={() => setActiveTab('sagamap')} className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${activeTab === 'sagamap' ? 'bg-amber-600 text-stone-100' : 'text-stone-400 hover:text-stone-200'}`}>Saga Continuity Map</button>
+            <button onClick={() => setActiveTab('arcana')} className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${activeTab === 'arcana' ? 'bg-amber-600 text-stone-100' : 'text-stone-400 hover:text-stone-200'}`}>Sardinia Arcana Engine</button>
+            <button onClick={() => setActiveTab('memory')} className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${activeTab === 'memory' ? 'bg-amber-600 text-stone-100' : 'text-stone-400 hover:text-stone-200'}`}>World Memory Repository</button>
+            <button onClick={() => setActiveTab('archetype')} className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${activeTab === 'archetype' ? 'bg-amber-600 text-stone-100' : 'text-stone-400 hover:text-stone-200'}`}>World Archetypes</button>
+            <button onClick={() => setActiveTab('pacing')} className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${activeTab === 'pacing' ? 'bg-amber-600 text-stone-100' : 'text-stone-400 hover:text-stone-200'}`}>Pacing Simulator</button>
+            <button onClick={() => setActiveTab('sandbox')} className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${activeTab === 'sandbox' ? 'bg-amber-600 text-stone-100' : 'text-stone-400 hover:text-stone-200'}`}>Co-Writer Sandbox</button>
+            <button onClick={() => setActiveTab('motif')} className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${activeTab === 'motif' ? 'bg-amber-600 text-stone-100' : 'text-stone-400 hover:text-stone-200'}`}>Motif Tracker</button>
             <button onClick={() => setActiveTab('heritage')} className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${activeTab === 'heritage' ? 'bg-amber-600 text-stone-100' : 'text-stone-400 hover:text-stone-200'}`}>Heritage Board</button>
             <button onClick={() => setActiveTab('timelines')} className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${activeTab === 'timelines' ? 'bg-amber-600 text-stone-100' : 'text-stone-400 hover:text-stone-200'}`}>Split Timelines</button>
             <button onClick={() => setActiveTab('minerals')} className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${activeTab === 'minerals' ? 'bg-amber-600 text-stone-100' : 'text-stone-400 hover:text-stone-200'}`}>Decoy Minerals</button>
@@ -271,6 +299,7 @@ export default function App() {
 
       {/* Main Content */}
       <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-8">
+        {activeTab === 'watchdog' && <AutopilotWatchdog />}
         {activeTab === 'factory' && (
           <div className="space-y-6">
             <div className="bg-stone-900 rounded-2xl border border-stone-800 p-6 shadow-xl space-y-6">
@@ -694,6 +723,58 @@ export default function App() {
               </div>
             </div>
           </div>
+        )}
+
+        {activeTab === 'autopilot' && (
+          <AutopilotPipelineRunner />
+        )}
+
+        {activeTab === 'os' && (
+          <StoryOperatingSystem />
+        )}
+
+        {activeTab === 'continuitysandbox' && (
+          <ContinuitySandbox />
+        )}
+
+        {activeTab === 'mythstudio' && (
+          <ApprovedMythPortraitStudio />
+        )}
+
+        {activeTab === 'geronimo' && (
+          <GeronimoSpotlight />
+        )}
+
+        {activeTab === 'upgrades' && (
+          <AdvancedSystemUpgradeHub />
+        )}
+
+        {activeTab === 'sagamap' && (
+          <SagaContinuityMap />
+        )}
+
+        {activeTab === 'arcana' && (
+          <SardiniaArcanaLivingEngine />
+        )}
+
+        {activeTab === 'memory' && (
+          <SardiniaWorldMemoryDashboard />
+        )}
+
+        {activeTab === 'archetype' && (
+          <WorldArchetypeEngine />
+        )}
+
+        {activeTab === 'pacing' && (
+          <NarrativePacingSimulator />
+        )}
+
+        {activeTab === 'sandbox' && (
+          <CoWriterSwarmSandbox />
+        )}
+
+        {activeTab === 'motif' && (
+          <NarrativeMotifTracker />
         )}
 
         {activeTab === 'inspectors' && (
